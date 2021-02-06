@@ -38,6 +38,10 @@ Depending on the dress pattern you sew, you can learn so many different techniqu
 
 
 
+<img src="/assets/images/blogs/firstProject/geranium.jpg" alt="geranium"/>
+
+
+
 The Geranium Dress by Made-By-Rae is my go to dress pattern. I also love their expansion pack! If you don’t want to purchase a pattern, there are several dress patterns for free online, or you can see if your library offers free classes on Creativebug, an online creative skills resource. 
 
 
