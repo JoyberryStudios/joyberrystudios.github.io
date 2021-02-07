@@ -2298,10 +2298,6 @@ h1, h2, h3, h4, h5, h6 {
     background:#4d4d4d;
     box-shadow:none;
     color:#fff;
-    cursor:pointer;
-    /* Improves usability and consistency of cursor style between image-type 'input' and others */
-    -webkit-appearance:button;
-    /* Corrects inability to style clickable 'input' types in iOS */
     font-size:14px;
     font-size:1.4rem;
     line-height:1;
