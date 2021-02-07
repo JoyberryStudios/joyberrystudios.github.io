@@ -2290,3 +2290,28 @@ h1, h2, h3, h4, h5, h6 {
     -o-transition: border linear 0.2s,box-shadow linear 0.2s;
     transition: border linear 0.2s,box-shadow linear 0.2s;
 }
+
+.links {
+    border:1px solid #4d4d4d;
+    border-color:#4d4d4d;
+    border-radius:0;
+    background:#4d4d4d;
+    box-shadow:none;
+    color:#fff;
+    cursor:pointer;
+    /* Improves usability and consistency of cursor style between image-type 'input' and others */
+    -webkit-appearance:button;
+    /* Corrects inability to style clickable 'input' types in iOS */
+    font-size:14px;
+    font-size:1.4rem;
+    line-height:1;
+    outline-color:transparent;
+    outline-style:none;
+    padding:1em 1em 0.9em;
+    text-shadow:0;
+    width:100%;
+    -webkit-transition:all 0.2s ease-in-out;
+    -moz-transition:all 0.2s ease-in-out;
+    -o-transition:all 0.2s ease-in-out;
+    transition:all 0.2s ease-in-out;
+}
