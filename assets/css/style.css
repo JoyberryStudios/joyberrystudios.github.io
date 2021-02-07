@@ -256,8 +256,11 @@ hr {
 img {
 	height:auto;
 	/* Make sure images are scaled correctly. */
-	max-width:100%;
+	max-width:70%;
 	/* Adhere to container width. */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 ul,ol {
 	margin:0 0 1.5em 3em;
