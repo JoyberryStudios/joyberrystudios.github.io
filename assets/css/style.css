@@ -23,6 +23,7 @@ Tags:white,light,one-column,two-columns,left-sidebar,right-sidebar,fluid-layout,
 	font-weight:normal;
 	font-style: normal;
 }
+
 /*--------------------------------------------------------------1.0 - Reset--------------------------------------------------------------*/
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td {
 	border:0;
@@ -456,14 +457,14 @@ a:active,a:focus {
 	text-align:center;
 }
 .site-title {
-	font-family:'Quattrocento Sans',sans-serif;
+	font-family:adage-script-jf, sans-serif;
 	font-size:60px;
-	font-weight:300;
+	font-weight:400;
+    font-style: normal;
 	letter-spacing:2px;
 	line-height:1;
 	margin-top:25px;
 	margin-bottom:20px;
-	text-transform:uppercase;
 }
 .site-title a {
 		text-decoration:none;
