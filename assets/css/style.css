@@ -1985,6 +1985,7 @@ ul.shortcode-archive li {
 }
 .page-template-template-portfolio .grid .entry-thumbnail img {
 	width:100%;
+    max-width:100%;
 	transition:all 0.4s;
 }
 .page-template-template-portfolio .grid .entry-thumbnail img:hover {
