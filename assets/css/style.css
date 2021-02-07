@@ -2303,7 +2303,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height:1;
     outline-color:transparent;
     outline-style:none;
-    padding:1em 1em 0.9em;
+    padding:15px;
     text-shadow:0;
     width:100%;
     -webkit-transition:all 0.2s ease-in-out;
@@ -2311,4 +2311,5 @@ h1, h2, h3, h4, h5, h6 {
     -o-transition:all 0.2s ease-in-out;
     transition:all 0.2s ease-in-out;
     display: block;
+    text-align: center;
 }
