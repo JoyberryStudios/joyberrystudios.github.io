@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "An Unconvential First Garment Project"
-image: /assets/images/blogs/firstProject/dressMain.png
+image: /assets/images/blogs/firstProject/dressMainPic.png
 date: 2021-02-06
 tags: sewing, garments, girls dress, baby dress, geranium dress, clothes
 description: "yay! Sew a dress!"
