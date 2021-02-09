@@ -11,7 +11,8 @@ If you’re new to sewing, finishing seams may seem not that exciting or necessa
 
 If you want your new project that you spent time, money, and effort on to survive the washing machine, you absolutely have to finish your seams. In this post I quickly review four of my favorite types of seams finishes and when I like to use them. Remember, whichever one you choose, practice on a piece of scrap fabric from the project you are working on! You want to make sure you understand how your machine is going to react to those sometimes delicate edges
 
-<img src="/assets/images/blogs/finishEdges/overcast.jpg" alt="overcast" />
+![overcast](/assets/images/blogs/finishEdges/overcast.jpg)
+
 ![overcast](/assets/images/blogs/finishEdges/overcast.jpg)
 <h2> Overcast Stitch</h2>
 
