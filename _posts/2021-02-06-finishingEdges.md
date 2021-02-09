@@ -7,8 +7,6 @@ tags: sewing, edges, finishing, finish, pinking shears, overcast, edge foot, fre
 description: "4 Ways to Finish Edges"
 ---
 
-![finishSeamsMain](/assets/images/blogs/finishEdges/finishSeamsTop.png)
-
 If you’re new to sewing, finishing seams may seem not that exciting or necessary. You already did the fun and hard part of cutting and piecing together your garment. Now you have to iron and sew some more in a place that no one will ever see?? 
 
 If you want your new project that you spent time, money, and effort on to survive the washing machine, you absolutely have to finish your seams. In this post I quickly review four of my favorite types of seams finishes and when I like to use them. Remember, whichever one you choose, practice on a piece of scrap fabric from the project you are working on! You want to make sure you understand how your machine is going to react to those sometimes delicate edges
