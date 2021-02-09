@@ -11,6 +11,7 @@ If you’re new to sewing, finishing seams may seem not that exciting or necessa
 
 If you want your new project that you spent time, money, and effort on to survive the washing machine, you absolutely have to finish your seams. In this post I quickly review four of my favorite types of seams finishes and when I like to use them. Remember, whichever one you choose, practice on a piece of scrap fabric from the project you are working on! You want to make sure you understand how your machine is going to react to those sometimes delicate edges
 
+<img src="/assets/images/blogs/finishEdges/overcast.jpg" alt="overcast" />
 ![overcast](/assets/images/blogs/finishEdges/overcast.jpg)
 <h2> Overcast Stitch</h2>
 
@@ -19,10 +20,12 @@ The overcast stitch is my go to favorite. I love how much the thread pops agains
 
 To do an overcast stitch you need a computerized machine and an edge foot. Take a look in your manual with how to access the stitch. The edge foot perfectly aligns up the edge of the fabric so your stitches are even and loop across the edge. The only downside to this stitch is that it does take some time. Just put a podcast in and think about your next project!
 
+
 ![zigzag](/assets/images/blogs/finishEdges/zigzag.jpg)
 <h2> Zig Zag Stitch </h2>
 
 The zig zag stitch is a pretty standard way to finish seams. I had issues with my fabric getting pulled into my machine since the stitch is so close to the edge. Just be sure to practice on a scrap piece of fabric first! It is faster than the overcast stitch and it still prevents your fabric from fraying pretty well! Just be sure that if you trim your seams you don’t cut into your stitching.
+
 
 ![frenchSeams](/assets/images/blogs/finishEdges/frenchSeams.jpg)
 <h2> French Seams </h2>
