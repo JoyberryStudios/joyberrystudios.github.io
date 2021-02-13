@@ -4,7 +4,7 @@ title: "Four Different Ways to Finish Edges"
 image: /assets/images/blogs/finishEdges/finishSeamsTop.png
 date: 2021-02-08
 tags: sewing, edges, finishing, finish, pinking shears, overcast, edge foot, french seams, zigzag
-description: "4 Ways to Finish Edges"
+description: "4 Ways to Finish Seams"
 ---
 
 If you’re new to sewing, finishing seams may seem not that exciting or necessary. You already did the fun and hard part of cutting and piecing together your garment. Now you have to iron and sew some more in a place that no one will ever see?? 
