@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "Four Different Ways to Finish Edges"
+title: "Four Different Ways to Finish Seams"
 image: /assets/images/blogs/finishEdges/finishSeamsTop.png
 date: 2021-02-08
 tags: sewing, edges, finishing, finish, pinking shears, overcast, edge foot, french seams, zigzag
