@@ -14,13 +14,13 @@ This is a tea set that we’ve had on our shelves for about a year. We will neve
 
 I saw [XO MaCenna] (https://www.youtube.com/watch?v=o7JgWtepghI&t=743s “MaCenna”) paint ceramic and glass vases so they had a faux ceramic look. I loved them! And they seemed so simple! So I am following a similar technique. If you want to learn more, definitely check out her video!
 
-![supplies](/assets/images/blogs/fauxCeramic/supplies.jpg)
+![supplies](/assets/images/blogs/fauxCeramic/materials.jpg)
 
 ## Supplies
-*a paint sample from a hardware store
-*baking soda
-*paint brush
-*glass or ceramic pieces of paint
+* a paint sample from a hardware store
+* baking soda
+* paint brush
+* glass or ceramic pieces of paint
 
 Getting paint from a hardware store may seem a little daunting. But you can get 1 Cup of paint in literally any color that you can dream of for $3. (Note though, you can’t simply throw out old latex paint you don’t want. You have to let it dry or you can buy a hardener for it.)
 
@@ -50,6 +50,6 @@ The temperature and humidity will dictate how long it takes each coat to dry. It
 
 Take a step back, pat yourself on the back, and admire your work! Hopefully much better than before! This is such a fun and quick way to add a splash of color and texture to your home. 
 
-If you do this DIY please share with me on [Instagram](https://www.instagram.com/joyberrystudios/?hl=en “instagram”)
+If you do this DIY please share with me on [Instagram](https://www.instagram.com/joyberrystudios/?hl=en “instagram”), Joyberry Studios
 
 ![supplies](/assets/images/blogs/fauxCeramic/final.jpg)
