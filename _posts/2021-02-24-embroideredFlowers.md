@@ -17,13 +17,13 @@ You can easily add these flower stitches to any piece of fabric. Whether it is o
 
 ![materials](/assets/images/blogs/embroideredFlowers/materials.jpg)
 
-*embroidery floss (I used Light Coral (352), Topaz (728), and Medium Light Blueberry (30))
+* embroidery floss (I used Light Coral (352), Topaz (728), and Medium Light Blueberry (30))
 
-*embroidery needle 
+* embroidery needle 
 
-*interfacing 
+* interfacing 
 
-*water/air soluble marker
+* water/air soluble marker
 
 A regular sewing needle’s eye isn’t big enough to fit the embroidery thread. If you are having issues threading the needle try a bigger needle or use only 3 of the 6 strands on the embroidery floss.
 
