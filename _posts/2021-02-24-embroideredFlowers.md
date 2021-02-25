@@ -18,8 +18,11 @@ You can easily add these flower stitches to any piece of fabric. Whether it is o
 ![materials](/assets/images/blogs/embroideredFlowers/materials.jpg)
 
 *embroidery floss (I used Light Coral (352), Topaz (728), and Medium Light Blueberry (30))
+
 *embroidery needle 
+
 *interfacing 
+
 *water/air soluble marker
 
 A regular sewing needle’s eye isn’t big enough to fit the embroidery thread. If you are having issues threading the needle try a bigger needle or use only 3 of the 6 strands on the embroidery floss.
@@ -28,7 +31,7 @@ If you are using a lighter weight fabric you should stabilize the back. Pellon m
 
 ## Lazy Daisy
 
-The lazy daisy is a quick and simple embroidered flower. I love the look of the dainty petals.
+The lazy daisy is a quick and simple embroidered flower. It is the yellow and coral embroidered flowers below. I love the look of the dainty petals.
 
 ![step1Yellow](/assets/images/blogs/embroideredFlowers/step1First.jpg)
 
@@ -60,23 +63,23 @@ Repeat with the remaining petals and you’ve made a lazy daisy flower!
 
 ## Spider Web Stitch
 
-This spider web stitch is such a quick flower to make and I love the dense woven look. They are the most satisfying floral to make and can be a great filler floral.
+This spider web stitch is such a quick flower to make and I love the dense woven look. This is the purple flower in the picture below. I think they are the most satisfying embroidered flower to make. They are a great filler flower for bigger projects as well!
 
 ![step1Purple](/assets/images/blogs/embroideredFlowers/step1Second.jpg)
 
-Mark out the middle and an odd number of points surrounding the middle. If you are making a smaller version of this floral, like mine, I suggest five points. The larger the flower the more points you should have. 
+Mark out the middle of your flower and an odd number of points surrounding the middle. If you are making a smaller version of this floral, like mine, I suggest five points. The larger the flower the more points you should have. Make a simple stitch from the middle to one of the points. 
 
 ![step2Purple](/assets/images/blogs/embroideredFlowers/step2Second.jpg)
 
-Make a simple stitch from the middle to one of the points. 
+Repeat the small stitch with each of your points. 
 
 ![step3Purple](/assets/images/blogs/embroideredFlowers/step3Second.jpg)
 
-And repeat with the other points. 
+Insert your needle up through the middle of the flower.
 
 ![step4Purple](/assets/images/blogs/embroideredFlowers/step4Second.jpg)
 
-This is where the fun weaving begins. Insert your needle up through the middle of the flower. Then thread your needle under one of your stitches. You are not going through the fabric here, just under the embroidery thread.
+This is where the fun weaving begins. Thread your needle under one of your stitches. You are not going through the fabric here, just under the embroidery thread.
 
 ![step5Purple](/assets/images/blogs/embroideredFlowers/step5Second.jpg)
 
