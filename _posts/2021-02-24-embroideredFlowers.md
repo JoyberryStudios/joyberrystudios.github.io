@@ -5,6 +5,7 @@ image: /assets/images/blogs/embroideredFlowers/embroideredFlowersMain.png
 date: 2021-02-24
 tags: embroidery, sewing, tutorial, DIY, 
 description: "embroidered flowers"
+comments: true
 ---
 
 After sewing a few dresses for my daughter I’ve traded in fun quilting cottons for fabrics with better drape. Sadly, that means I’m missing out on a lot of cute patterns and designs that make quilting cottons so fun. I wanted a quick way to add some character to her most recent dress, so I embroidered these two quick flowers on the peter pan collar. 
