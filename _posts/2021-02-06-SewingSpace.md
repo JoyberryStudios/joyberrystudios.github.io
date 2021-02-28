@@ -1,10 +1,11 @@
 ---
 layout: blogpost
 title: "Tour my Small Sewing Space"
-image: /assets/images/blogs/sewingSpace/sewingSpaceMain.png
+image: /assets/images/blogs/sewingSpace/sewingSpaceMain.jpg
 date: 2021-02-06
 tags: sewing, home, home tour, sewing space, sewing studio
 description: "This is my sewing space"
+comments: true
 ---
 
 I love scrolling Instagram and seeing people who have entire rooms dedicated to sewing. Some have cabinets and shelves lining the walls that are filled with gorgeous fabrics. They even have a table big enough for a space for their sewing machines, sergers, and a full cutting mat. It leaves me in awe every single time. 

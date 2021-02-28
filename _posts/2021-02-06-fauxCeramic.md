@@ -1,10 +1,11 @@
 ---
 layout: blogpost
 title: "DIY Faux Ceramic Pottery"
-image: /assets/images/blogs/fauxCeramic/ceramicMain.png
+image: /assets/images/blogs/fauxCeramic/ceramicMain.jpg
 date: 2021-02-11
 tags: home decor, painting, vases, ceramic
 description: "faux ceramic pottery"
+comments: true
 ---
 When we moved into our new home we suddenly had a lot of open shelves to display all of our beautiful things. The only issue was that we didn’t have a whole lot of beautiful things. I am a pretty practical person, especially when it comes to spending money on things. I’m not going to spend $30 on a vase just because it looks pretty on our shelf. I received a lot of hand me downs from older family members and we are in the process of DIYing our way to Instagram worthy shelves.
 

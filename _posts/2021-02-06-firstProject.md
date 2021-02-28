@@ -1,10 +1,11 @@
 ---
 layout: blogpost
-title: "Geranium Dress: Great First Sewing Project"
-image: /assets/images/blogs/firstProject/dressMainPic.png
+title: "A Great First Sewing Project: Geranium Dress"
+image: /assets/images/blogs/firstProject/dressMainPic.jpg
 date: 2021-02-06
 tags: sewing, garments, girls dress, baby dress, geranium dress, clothes
 description: "yay! Sew a dress!"
+comments: true
 ---
 Do you have inspiration for sewing your own clothes? Maybe some clothes for a little one? If so, figuring out where to start can be daunting and it seems like there is such a big learning curve. 
 
