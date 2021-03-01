@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "How to Embroidered Flowers: Lazy Daisy & Spider Web"
+title: "Embroidered Flowers: Lazy Daisy & Spider Web"
 image: /assets/images/blogs/embroideredFlowers/embroideredFlowersMain.jpg
 date: 2021-02-24
 tags: embroidery, sewing, tutorial, DIY, 

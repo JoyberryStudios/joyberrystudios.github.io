@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "A Great First Sewing Project: Geranium Dress"
+title: "Great First Sewing Project: Geranium Dress"
 image: /assets/images/blogs/firstProject/dressMainPic.jpg
 date: 2021-02-06
 tags: sewing, garments, girls dress, baby dress, geranium dress, clothes
