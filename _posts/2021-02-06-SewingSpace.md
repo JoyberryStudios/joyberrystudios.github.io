@@ -26,9 +26,6 @@ The Juki DX7 is a great machine and I’m so thankful that I have it. It is like
 
 If you are looking to purchase a new machine I encourage you to purchase one from a local store. It helps support your own local sewing community and if something ever happens to your machine, they will typically help you out!
 
-
-[Sew to Speak]: http://www.sewtospeakshoppe.com “sewToSpeak”
-
 ![threadJar](/assets/images/blogs/February2021/sewingSpace/threadJar.jpg)
 
 One little thing that makes a big difference while I’m sewing is having this little mason jar by my side. It is essentially a little trash can. Whenever I cut threads, or if I get a thread nest, or run out of thread, all of the extra stuff goes into this jar, which I later throw out. Before I had this jar I tried to keep everything in a pile. I’m sure you can imagine what it’s like to have your fabric pass through a pile of threads. It’s a mess! I also love that I can look back and see the previous projects I was working on. It reminds me of layers in the crust of the Earth. 

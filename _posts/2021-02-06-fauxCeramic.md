@@ -13,7 +13,7 @@ When we moved into our new home we suddenly had a lot of open shelves to display
 
 This is a tea set that we’ve had on our shelves for about a year. We will never use it, but I liked the shape of the teapot and the matching little pots. I also know that things look best in threes, so I kept them all. 
 
-I saw [XO MaCenna](https://www.youtube.com/watch?v=o7JgWtepghI&t=743s “MaCenna”) paint ceramic and glass vases so they had a faux ceramic look. I loved them! And they seemed so simple! So I am following a similar technique. If you want to learn more, definitely check out her video!
+I saw [XO MaCenna](https://www.youtube.com/watch?v=o7JgWtepghI&t=743s “MaCenna”){:target="_blank"} paint ceramic and glass vases so they had a faux ceramic look. I loved them! And they seemed so simple! So I am following a similar technique. If you want to learn more, definitely check out her video!
 
 ![supplies](/assets/images/blogs/February2021/fauxCeramic/materials.jpg)
 
@@ -51,5 +51,5 @@ The temperature and humidity will dictate how long it takes each coat to dry. It
 
 Take a step back, pat yourself on the back, and admire your work! Hopefully much better than before! This is such a fun and quick way to add a splash of color and texture to your home. 
 
-If you do this DIY please share with me on [Instagram, Joyberry Studios.](https://www.instagram.com/joyberrystudios/?hl=en “instagram”)
+If you do this DIY please share with me on [Instagram, Joyberry Studios.](https://www.instagram.com/joyberrystudios/?hl=en “instagram”){:target="_blank"}
 ![supplies](/assets/images/blogs/February2021/fauxCeramic/final.jpg)

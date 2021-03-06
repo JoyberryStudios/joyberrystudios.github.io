@@ -95,4 +95,4 @@ As you continue to weave, your flower will grow and start to look more like a fl
 Once you’ve reached the edges of your stitches, thread the needle back through the fabric and tie it off. You’ve made a spider web stitch flower!
 ![collaredPieces](/assets/images/blogs/February2021/embroideredFlowers/collaredPieces.jpg)
 
-I repeated the two florals throughout my daughter’s peter pan collar pieces before sewing them into her [Geranium Dress from Made-by-Rae](https://shop.made-by-rae.com/products/geranium-dress). 
+I repeated the two florals throughout my daughter’s peter pan collar pieces before sewing them into her [Geranium Dress from Made-by-Rae](https://shop.made-by-rae.com/products/geranium-dress){:target="_blank"}. 
