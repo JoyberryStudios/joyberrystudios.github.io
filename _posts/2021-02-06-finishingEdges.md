@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "Four Different Ways to Finish Seams"
-image: /assets/images/blogs/finishEdges/finishSeamsTop.jpg
+image: /assets/images/blogs/February2021/finishEdges/finishSeamsTop.jpg
 date: 2021-02-08
 tags: sewing, edges, finishing, finish, pinking shears, overcast, edge foot, french seams, zigzag
 description: "4 Ways to Finish Seams"
@@ -15,7 +15,7 @@ If you want your new project that you spent time, money, and effort on to surviv
 
 <h2> Overcast Stitch</h2>
 
-![overcast](/assets/images/blogs/finishEdges/overcast.jpg)
+![overcast](/assets/images/blogs/February2021/finishEdges/overcast.jpg)
 
 The overcast stitch is my go to favorite. I love how much the thread pops against the fabric (I like to use a contrasting color thread) and it is the strongest way to finish seams. It is similar to what a serger does. I don’t have a serger. I don’t want to sacrifice space or money I could spend on fabric for one! Maybe in the future…
 
@@ -24,14 +24,14 @@ To do an overcast stitch you need a computerized machine and an edge foot. Take 
 
 <h2> Zig Zag Stitch </h2>
 
-![zigzag](/assets/images/blogs/finishEdges/zigzag.jpg)
+![zigzag](/assets/images/blogs/February2021/finishEdges/zigzag.jpg)
 
 The zig zag stitch is a pretty standard way to finish seams. I had issues with my fabric getting pulled into my machine since the stitch is so close to the edge. Just be sure to practice on a scrap piece of fabric first! It is faster than the overcast stitch and it still prevents your fabric from fraying pretty well! Just be sure that if you trim your seams you don’t cut into your stitching.
 
 
 <h2> French Seams </h2>
 
-![frenchSeams](/assets/images/blogs/finishEdges/frenchSeams.jpg)
+![frenchSeams](/assets/images/blogs/February2021/finishEdges/frenchSeams.jpg)
 
 French seams are regarded as beautiful and sometimes bulky. If you are using a heavier weight of fabric or sewing something like a tight fitting garment, a french seam may not be a good idea. If on the other hand, you are sewing a loose fitting summer dress out of cotton lawn, this would be a perfect way to finish your inside seams. 
 
@@ -43,7 +43,7 @@ If you do a french seam you have to be careful about seam allowances! There are 
 
 <h2> Pinking Shears </h2>
 
-![pinkingShears](/assets/images/blogs/finishEdges/pinkingShears.jpg)
+![pinkingShears](/assets/images/blogs/February2021/finishEdges/pinkingShears.jpg)
 
 The final way to finish seams are with pinking shears! This is by far the fastest way to finish seams. It can come off as a little quick and perhaps unprofessional, but if no one is going to see the inside of your garment, and you would rather save the time go for it! It does require a special pair of scissors, that creates a zigzag cut. This cut prevents the fabric from fraying as much. You may get some fraying, but not huge long tails of threads. 
 

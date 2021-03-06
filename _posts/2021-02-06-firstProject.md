@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "Great First Sewing Project: Geranium Dress"
-image: /assets/images/blogs/firstProject/dressMainPic.jpg
+image: /assets/images/blogs/February2021/firstProject/dressMainPic.jpg
 date: 2021-02-06
 tags: sewing, garments, girls dress, baby dress, geranium dress, clothes
 description: "yay! Sew a dress!"
@@ -11,7 +11,7 @@ Do you have inspiration for sewing your own clothes? Maybe some clothes for a li
 
 The first garment I ever sewed was a [Geranium Dress from Made-By-Rae.](https://shop.made-by-rae.com/collections/childrens-patterns/products/geranium-dress) This dress taught me so much and gave me the confidence to tackle other projects. 
 
-<img src="/assets/images/blogs/firstProject/geranium.jpg" alt="geranium"/>
+<img src="/assets/images/blogs/February2021/firstProject/geranium.jpg" alt="geranium"/>
 
 If you are new to garment sewing, I think the Geranium Dress is a great pattern to start with. Hear me out.
 
@@ -23,4 +23,4 @@ If you are new to garment sewing, I think the Geranium Dress is a great pattern 
 
 4. Once you are done, you can donate the dress to someone in need! 
 
-<img src="/assets/images/blogs/firstProject/wearingDress.jpg" alt="wearingDress"/>
+<img src="/assets/images/blogs/February2021/firstProject/wearingDress.jpg" alt="wearingDress"/>
