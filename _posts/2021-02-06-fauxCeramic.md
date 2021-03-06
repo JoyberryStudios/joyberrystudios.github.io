@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "DIY Faux Ceramic Pottery"
+title: "DIY Faux Ceramic Pottery: How to Upcycle Old Glass & Ceramic"
 image: /assets/images/blogs/February2021/fauxCeramic/ceramicMain.jpg
 date: 2021-02-11
 tags: home decor, painting, vases, ceramic
