@@ -16,19 +16,19 @@ If you’ve never quilted before and want to dip your toes in, quilted pillow co
 
 ![materials](/assets/images/blogs/March2021/OhioQuiltPillows/pillowMaterials.jpg)
 
-*main fabric
+* main fabric "*"
 
-*contrasting fabric
+* contrasting fabric "*"
 
-*quilt batting
+* quilt batting
 
-*matching thread
+* matching thread
 
-*zipper
+* zipper "**"
  
- The amount of fabric will depend on your pillow size. Read through the instructions first and try to plan out how much you will need. If you are nervous, you can always purchase more to be safe.
+ "*" The amount of fabric will depend on your pillow size. Read through the instructions first and try to plan out how much you will need. If you are nervous, you can always purchase more to be safe.
 
-You want the length of your zipper to be the size of your pillow or bigger. You can always trim them down!
+"**" You want the length of your zipper to be the size of your pillow or bigger. You can always trim them down!
 
 ## Step 1: Figure out your Design Dimensions
 
