@@ -38,7 +38,7 @@ We are all probably going to make pillow covers for different sized pillows, so 
 
 ![guide](/assets/images/blogs/March2021/OhioQuiltPillows/guide.jpg)
 
-I really like this cut guide from [Generations Quilt Patterns.](https://www.generations-quilt-patterns.com/ohio-star-quilt-block.html){:target=”_blank”} This chart tells you exactly what size squares to cut for the size of the Ohio quilt star that you want.
+I really like this cut guide from [Generations Quilt Patterns.](https://www.generations-quilt-patterns.com/ohio-star-quilt-block.html){:target="_blank"} This chart tells you exactly what size squares to cut for the size of the Ohio quilt star that you want.
 
 My pillows are 21 inches, so I did the largest 12 inch quilt block, which gave me 9 inches in width to work with the border, 4.5 inches on each side of the quilt block. 
 
@@ -112,7 +112,7 @@ Take one of your border pieces and align it with one of the edges of your quilt 
 
 Press open and trim off remaining fabric.
 
-![startBorderThree](/assets/images/blogs/March2021/OhioQuiltPillows/startBoarderThree.jpg)
+![startBorderThree](/assets/images/blogs/March2021/OhioQuiltPillows/startBorderThree.jpg)
 
 Repeat this process. You will soon complete your first border. If you are adding more than one border, continue to repeat the process until finished. (If the lengths of your border pieces become too small, feel free to piece together some smaller scraps until it's long enough. 
 
@@ -132,7 +132,7 @@ Next we will assemble the quilt and the back of the pillow together with a zippe
 
 ![finishZipperSeams](/assets/images/blogs/March2021/OhioQuiltPillows/finishZipperSeams.jpg)
 
-First you need to finish the edges where you will be inserting the zipper. This prevents the fabric from unraveling, which would ruin your pillow. I used an overcast stitch, feel free to use [a zig zag stitch or pinking shears as well.](https://joyberrystudios.com/2021/02/08/finishingEdges.html){:target=”_blank”} 
+First you need to finish the edges where you will be inserting the zipper. This prevents the fabric from unraveling, which would ruin your pillow. I used an overcast stitch, feel free to use [a zig zag stitch or pinking shears as well.](https://joyberrystudios.com/2021/02/08/finishingEdges.html){:target="_blank"} 
 
 ![closeZippers](/assets/images/blogs/March2021/OhioQuiltPillows/closeZippers.jpg)
 
@@ -172,9 +172,11 @@ Sew around the three sides of your pillow with a ¼ inch seam allowance.
 
 ![finishOtherEdges](/assets/images/blogs/March2021/OhioQuiltPillows/finishOtherEdges.jpg)
 
-Finally, you want to [finish the remaining edges](https://joyberrystudios.com/2021/02/08/finishingEdges.html){:target=”_blank”}. This is so important. If your fabric begins to fray, your seams can easily come apart and you won’t be able to use your pillow!
+Finally, you want to [finish the remaining edges](https://joyberrystudios.com/2021/02/08/finishingEdges.html){:target="_blank"}.  This is so important. If your fabric begins to fray, your seams can easily come apart and you won’t be able to use your pillow!
 
 ## Enjoy and Share!
 
-I hope you enjoyed this tutorial. If you followed along, please reach out to me on [Instagram](https://www.instagram.com/joyberrystudios/){:target=”_blank”} or comment below!
+I hope you enjoyed this tutorial. If you followed along, please reach out to me on [Instagram](https://www.instagram.com/joyberrystudios/){:target="_blank"} or comment below!
 
+<br>
+<br>
