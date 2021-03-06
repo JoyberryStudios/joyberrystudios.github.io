@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "How to Sew a Quilted Pillow Case with an Ohio Star Quilt Block"
-image: /assets/images/blogs/February2021/OhioQuiltPillows/quiltPillowMain.jpg
+image: /assets/images/blogs/March2021/OhioQuiltPillows/quiltPillowMain.jpg
 date: 2021-03-05
 tags: home, pillows, sewing, sew, decor, quilting, ohio, star, quilt, sewing tutorial, 
 description: "ohio quilt pillow"
@@ -126,7 +126,7 @@ Pin your sandwich together to make sure the layers don’t shift. Do you best to
 
 Take it to your sewing machine and do some quilting. You can simply stitch in lines across the quilt top. I outlined the border pieces and the white squares in the quilt block. The purpose of these stitches is to hold everything together. It can be as detailed or as simple as you like!
 
-## Assemble 
+## Adding the Zipper
 
 Next we will assemble the quilt and the back of the pillow together with a zipper. You can use an envelope style closure here as well. I think a zippered pillow holds its shape a little better
 
