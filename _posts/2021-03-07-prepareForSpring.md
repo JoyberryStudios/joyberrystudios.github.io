@@ -13,7 +13,7 @@ Towards the end of February I start to get hints of the upcoming spring. The sou
 
 When it comes to decorating for any time of the year I have two guiding philosophies: 
 
-#### keep the spending and the clutter to a minimum.
+**keep the spending and the clutter to a minimum.**
 
 I like to decorate by setting an overall mood for the house. I pack away anything that is associated with winter and bring out hints of the lighter and warmer months. I also like to incorporate the season in consumables (food, fun soaps) that I won’t have to store for the majority of the year.
 
