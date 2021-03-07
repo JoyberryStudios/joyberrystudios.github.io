@@ -13,7 +13,7 @@ Towards the end of February I start to get hints of the upcoming spring. The sou
 
 When it comes to decorating for any time of the year I have two guiding philosophies: 
 
-### keep the spending and the clutter to a minimum.
+#### keep the spending and the clutter to a minimum.
 
 I like to decorate by setting an overall mood for the house. I pack away anything that is associated with winter and bring out hints of the lighter and warmer months. I also like to incorporate the season in consumables (food, fun soaps) that I won’t have to store for the majority of the year.
 
@@ -76,7 +76,7 @@ This is an easy and fun way to decorate for the seasons. Simply change out some 
 
 There are plenty of free printables online, you could make your own art, or you can support an independent designer by purchasing art on [Etsy.](https://www.etsy.com/search?q=spring%20art%20printable&ref=auto-1){:target=”_blank”}  
 
-![SabinaFenn](/assets/images/blogs/March2021/prepareForSpring/)
+![SabinaFenn](/assets/images/blogs/March2021/prepareForSpring/SabinaFenn.jpg)
 
 One artist that I’ve recently fallen in love with is [Sabina Fenn.](https://www.etsy.com/listing/757569205/kala-art-print-summer-girl-fashion-wall?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=sabina+fenn&ref=sr_gallery-1-34&organic_search_click=1){:target=”_blank”}  Her watercolor artwork is absolutely gorgeous and so fun. 
 
