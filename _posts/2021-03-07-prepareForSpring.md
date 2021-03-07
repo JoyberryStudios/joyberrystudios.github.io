@@ -30,7 +30,7 @@ Etsy has a ton of pillow covers to check out or you can make your own. [I wrote 
 
 I like to pair these pillows with this light knit blanket from IKEA. I’ve also been dreaming about making a light double gauze quilt. It would be perfect for snuggling during warmer months.
 
-![closet](/assets/images/blogs/March2021/prepareForSpring/)
+![closet](/assets/images/blogs/March2021/prepareForSpring/dresses.jpg)
 
 ### 2. Take all of the cold weather clothes & gear, wash it, and store it away.
 
