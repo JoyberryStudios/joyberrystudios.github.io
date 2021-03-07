@@ -26,7 +26,7 @@ Spring is more than plastic easter eggs and pastels. It is fresh air coming thro
 I have a fall/winter and spring/summer rotation for our blankets and pillows. I make all of my own pillow covers, including [the quilted ones above.](https://joyberrystudios.com/2021/03/05/ohioQuiltPillow.html){:target=”_blank”} 
 Since I just have to replace the covers they are easy to store in the off season. It is so much easier than buying whole new pillows! 
 
-Etsy has a ton of pillow covers to check out or you can make your own. [I wrote a blog post about how to make a simple zippered pillow case]()){:target=”_blank”} . It is a great first sewing project!
+Etsy has a ton of pillow covers to check out or you can make your own. [I wrote a blog post about how to make a simple zippered pillow case](https://joyberrystudios.com/2021/02/06/pillows.html){:target=”_blank”} . It is a great first sewing project!
 
 I like to pair these pillows with this light knit blanket from IKEA. I’ve also been dreaming about making a light double gauze quilt. It would be perfect for snuggling during warmer months.
 
@@ -80,7 +80,7 @@ There are plenty of free printables online, you could make your own art, or you 
 
 One artist that I’ve recently fallen in love with is [Sabina Fenn.](https://www.etsy.com/listing/757569205/kala-art-print-summer-girl-fashion-wall?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=sabina+fenn&ref=sr_gallery-1-34&organic_search_click=1){:target=”_blank”}  Her watercolor artwork is absolutely gorgeous and so fun. 
 
-[outdoor](/assets/images/blogs/March2021/prepareForSpring/outside.jpg)
+![outdoor](/assets/images/blogs/March2021/prepareForSpring/outside.jpg)
 
 ### 7. Reset your outdoor space
 
@@ -94,9 +94,7 @@ Think about how you want your outdoor space to serve you. We love eating meals o
 
 Spring is also a great time to spruce up your landscaping. We are mulching this year, planting a garden, and adding a few more plants and trees to our yard. (When planting try to also think about plants that you can easily clip to bring inside to decorate with.)
 
-
-
-[scents](/assets/images/blogs/March2021/prepareForSpring/scents.jpg)
+![scents](/assets/images/blogs/March2021/prepareForSpring/scents.jpg)
 
 ### 8. Enjoy the season through other senses: taste & smell.
 
@@ -106,7 +104,7 @@ I can’t wait to have yogurt parfaits with fresh berries out on my patio in the
 
 I also like to change over the few scents that I use in our home to more energizing ones. I like to [make our foaming handsoap](https://joyberrystudios.com/2021/02/27/foamSoap.html){:target=”_blank”}  with Dr. Bonner’s eucalyptus soap. Maybe you diffuse one of your favorite essential oils or light a candle that reminds you of spring!
 
-[windows](/assets/images/blogs/March2021/prepareForSpring/windows.jpg)
+![windows](/assets/images/blogs/March2021/prepareForSpring/windows.jpg)
 
 ### 9. Open the windows.
 
