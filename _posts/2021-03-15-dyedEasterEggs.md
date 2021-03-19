@@ -3,7 +3,7 @@ layout: blogpost
 title: "DIY Marbled Easter Eggs with Shaving Cream and Food Coloring"
 image: /assets/images/blogs/March2021/dyingEggs/easterEggsMain.jpg
 date: 2021-03-15
-tags: easter, holiday
+tags: holiday, easter
 description: "dyeing Easter eggs with shaving cream and food coloring"
 comments: true
 ---
