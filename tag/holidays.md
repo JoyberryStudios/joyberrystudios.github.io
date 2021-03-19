@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: holidays"
-tag: holidays
+title: "Tag: holidaysAndSeasons"
+tag: holiday, season
 ---

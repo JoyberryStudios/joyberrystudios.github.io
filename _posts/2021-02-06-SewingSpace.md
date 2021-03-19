@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Organize a Small Sewing Space: Tips & Tricks"
 image: /assets/images/blogs/February2021/sewingSpace/sewingSpaceMain.jpg
 date: 2021-02-06
-tags: sewing, home, home tour, sewing space, sewing studio
+tags: sewing, home, sewing space, sewing studio
 description: "This is my sewing space"
 comments: true
 ---
