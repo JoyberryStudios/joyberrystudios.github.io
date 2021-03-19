@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Make Continuous Bias Tape - The Easy & Fast Way"
 image: /assets/images/blogs/March2021/continuousBias/continuousBiasMain.jpg
 date: 2021-03-14
-tags: sewing, tutorial, bias, tape, continuous
+tags: sewing, sewingTutorial
 description: "make continuous bias tape"
 comments: true
 ---

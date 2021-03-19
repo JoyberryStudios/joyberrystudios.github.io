@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Sew a Quilted Pillow Case with an Ohio Star Quilt Block"
 image: /assets/images/blogs/March2021/OhioQuiltPillows/quiltPillowMain.jpg
 date: 2021-03-05
-tags: home, pillows, sewing, sew, decor, quilting, ohio, star, quilt, sewing tutorial, 
+tags: sewing, sewingHome
 description: "ohio quilt pillow"
 comments: true
 ---

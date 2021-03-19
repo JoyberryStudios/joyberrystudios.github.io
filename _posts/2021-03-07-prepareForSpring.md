@@ -3,7 +3,7 @@ layout: blogpost
 title: "9 Ways to Incorporate Spring Into Your Home: A Frugal & Minimalist Approach"
 image: /assets/images/blogs/March2021/prepareForSpring/prepareForSpringMain.jpg
 date: 2021-03-07
-tags: home, spring, home decor, decorating, summer, frugal, minimalist, easter, decor, 
+tags: home, spring
 description: "decorating your home for spring"
 comments: true
 ---
