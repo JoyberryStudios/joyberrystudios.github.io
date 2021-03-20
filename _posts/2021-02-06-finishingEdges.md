@@ -3,7 +3,7 @@ layout: blogpost
 title: "Finishing Seams: Overcast, Zig Zag, French Seams, & Pinking Shears"
 image: /assets/images/blogs/February2021/finishEdges/finishSeamsTop.jpg
 date: 2021-02-08
-tags: sewing, sewingTutorial
+tags: sewing sewingTutorials
 description: "4 Ways to Finish Seams"
 comments: true
 ---

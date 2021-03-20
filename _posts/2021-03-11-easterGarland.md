@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Make an Easter Garland - With Materials You Have Around the House"
 image: /assets/images/blogs/March2021/easterGarland/easterGarlandMain.jpg
 date: 2021-03-11
-tags: home, spring, easter
+tags: home spring easter
 description: "make an Easter garland"
 comments: true
 ---

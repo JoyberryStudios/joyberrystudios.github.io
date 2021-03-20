@@ -3,7 +3,7 @@ layout: blogpost
 title: "Learn the Basics of Sewing Garments with a Geranium Dress. "
 image: /assets/images/blogs/February2021/firstProject/dressMainPic.jpg
 date: 2021-02-06
-tags: sewing, garments, sewingKids
+tags: sewing garments sewingKids
 description: "yay! Sew a dress!"
 comments: true
 ---

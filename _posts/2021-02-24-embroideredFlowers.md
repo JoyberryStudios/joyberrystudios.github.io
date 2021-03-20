@@ -3,7 +3,7 @@ layout: blogpost
 title: "Embroidered Flowers Tutorial: Lazy Daisy & Spider Web"
 image: /assets/images/blogs/February2021/embroideredFlowers/embroideredFlowersMain.jpg
 date: 2021-02-24
-tags: sewing sewingKids sewingTutorial garments
+tags: sewing sewingKids sewingTutorials garments
 description: "embroidered flowers"
 comments: true
 ---
