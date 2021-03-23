@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "Tamarack Jacket Hack - How to Add a Hood to Any Jacket"
-image: /assets/images/blogs/March2021/hood/hoodPinterestMain3.jpg
+image: /assets/images/blogs/March2021/hood/hoodPinterestMain4.jpg
 date: 2021-03-22
 tags: sewing garments sewingTutorials
 description: "adding a hood to a Tamarack Jacket"
