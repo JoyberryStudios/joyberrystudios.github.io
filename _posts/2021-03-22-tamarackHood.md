@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "Tamarack Jacket Hack - How to Add a Hood to Any Jacket"
-image: /assets/images/blogs/March2021/hood/hoodPinterestMain.jpg
+image: /assets/images/blogs/March2021/hood/hoodPinterestMain2.jpg
 date: 2021-03-22
 tags: sewing garments sewingTutorials
 description: "adding a hood to a Tamarack Jacket"
@@ -60,7 +60,7 @@ Pin the other curved square to the other side of the rectangle and sew.
 
 At this point you should finish the seams. I just covered my seams in bias tape. I think this looks cute because you can see the seam finishes pretty easily when you are wearing the jacket, so you want them to look nice. 
 
-![overcast](/assets/images/blogs/March2021/hood/overcast.jpg)
+![overcast](/assets/images/blogs/March2021/hood/overcastSeams.jpg)
 
 When I made a matching jacket for my daughter I just finished the edges with an overcast stitch. Much faster and less bulky, but not as fun. You could use a contrasting thread for a bit of color if you wanted to go this route.
 
