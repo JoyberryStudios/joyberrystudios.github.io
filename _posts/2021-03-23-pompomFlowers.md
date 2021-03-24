@@ -1,7 +1,7 @@
 ---
 layout: blogpost
-title: "How to Make a Pom Pom Flower Bouquet"
-image: /assets/images/blogs/March2021/pompomFlowers/pompomFlowersMain.jpg
+title: "How to Make a Pom Pom Flower Bouquet - With Materials You May Already Have"
+image: /assets/images/blogs/March2021/pompomFlowers/pompomFlowerMain.jpg
 date: 2021-03-23
 tags: home DIY
 description: "diy pom pom flowers"
@@ -108,7 +108,7 @@ Separate a bit of yarn on a pom pom and stick the skewer/stick into the middle o
 
 To adjust the size of the skewers or sticks simply score the skewer by gentle cutting the wood with some scissors. Rotate the skewer while making little cuts.  Just cut the wood enough so you can easily break it. Smooth it out by rubbing the cut end on the cutting board.
 
-![final]![glue](/assets/images/blogs/March2021/pompomFlowers/final.jpg)
+![glue](/assets/images/blogs/March2021/pompomFlowers/final.jpg)
 
 Repeat! Assemble them in a cute jar or vase together. 
 
