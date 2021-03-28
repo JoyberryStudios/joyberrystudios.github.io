@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: ""
+title: "How to Make a Tamarack Jacket for Kids with Geranium Dress Pattern"
 image: /assets/images/blogs/March2021/geraniumJacket/tinyTamarackMain.jpg
 date: 2021-03-27
 tags: sewing garments sewingKids
@@ -122,7 +122,7 @@ We are almost there! Next sew the sides of the jacket, from the hips to the armp
 
 Make sure you enclose the edges of the bias tape within the seam, so the outside looks nice!
 
-![sleeves](/assets/images/blogs/March2021/geraniumJacket/sleeves.jpg)
+![sleeves](/assets/images/blogs/March2021/geraniumJacket/Sleeves.jpg)
 
 At this point you may want to check the sleeve length on your little one. Pop the coat on them and mark where their wrists are. You will be closing this hem with bias tape, so there is no need to account for seam allowances!
 
@@ -135,3 +135,6 @@ Trim the length of the sleeves and finish them with bias tape and you are done!
 If you follow along with this tutorial and make your own jacket for a little one, please share with me! I would love to see how they turn out or any feedback you may have.
 
 Feel free to comment below, or connect with me on [Instagram!](https://www.instagram.com/joyberrystudios/?hl=en)
+
+<br>
+<br>
