@@ -23,7 +23,7 @@ It also includes a side invisible zipper. Zippers can be totally daunting at fir
 
 For a garment like this you want a drapey fabric. If you choose a stiff quilting cotton it may just balloon out at the gathers and will look a little stiff and big and just awkwardly balloon around your body.
 
-![fabric]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/fabric.jpg)
+![fabric](/assets/images/blogs/April2021/gatheredSkirt/fabric.jpg)
 
 I chose this [Chambray Union Yarn Dyed](https://sewtospeakshoppe.com/collections/non-quilting-fabric/products/chambray-union-in-indigo-1) fabric in indigo from Robert Kaufman. It has great drape, it is pretty cheap for garment fabric, and it is 57” wide. 
 
@@ -43,7 +43,7 @@ I like to use the [950F ShirTailor Fusible Interfacing](https://www.joann.com/pe
 
 ## Measurements
 
-![measurements]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/measurements.jpg)
+![measurements](/assets/images/blogs/April2021/gatheredSkirt/measurements.jpg)
 
 The first measurement you will need is where you would like the skirt to sit on your waist. I chose just below my belly button. Make sure you are measuring the distance around your body. I will refer to this measurement as your WAIST measurement.
 
@@ -56,9 +56,11 @@ The next measurement you need to take is from your waist (where you want your sk
 Great news, this pattern is just TWO rectangles! I am a math person (please don’t hate me) so I wrote out some calculations. I find these to be straightforward. If those equations scare you, just look past them and I will walk you through it!
 
 Waistband Width = WAIST + 1 inch
+
 Waistband Height =  6 inches
 
 Front/Back Width = WAIST x 2
+
 Front/Back Height = LENGTH + 1 5/8 inches
 
 
@@ -76,25 +78,25 @@ You should now have your measurements for the waistband and the front/back piece
 
 You also need to cut some pieces of interfacing. For the waistband, cut one piece of interfacing that is your Waistband Width x 2.75 inches. For the zipper reinforcement cut two pieces of 1”x7” pieces of interfacing.
 
-![interfaced]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/interfaced.jpg)
+![interfaced](/assets/images/blogs/April2021/gatheredSkirt/interfaced.jpg)
 
 Use your iron and adhere the waistband interfacing to the wrong side of the bottom 2.75” of the waistband fabric. Adhere the zipper interfacing to the wrong side of fabric on each the front and back pieces. It should be on the side of the fabric, where your zipper will go. 
 
 ## Start Sewing! (finally…)
 
-![overcast]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/overcast.jpg)
+![overcast](/assets/images/blogs/April2021/gatheredSkirt/overcast.jpg)
 
 First thing you need to do is finish the side seams on the front and back pieces of the skirt. I like to finish seams before I sew them. I find it is easier and the fabric doesn’t fray while I’m working with it. I just did an overcast stitch on my sewing machine. I also find this is a fun place to use contrasting thread (a great way to use up scrap thread!)
 
-![sideSeam]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/sideSeam.jpg)
+![sideSeam](/assets/images/blogs/April2021/gatheredSkirt/sideSeam.jpg)
 
 Sew your front and back pieces together at the side seams with a ⅜ inch seam allowance. Be sure that your fabric is right sides together! Press this seam open.
 
-![threads]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/threads.jpg)
+![threads](/assets/images/blogs/April2021/gatheredSkirt/threads.jpg)
 
 Set your machine to the longest stitch length possible and make sure your bobbin thread and top thread are both pulled out a little bit. You will want to be able to hold these threads when you make the gathers.
 
-![gatherStitches]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/gatherStitches.jpg)
+![gatherStitches](/assets/images/blogs/April2021/gatheredSkirt/gatherStitches.jpg)
 
 Sew two lines down the top of your front/back pieces at ¼ inch and ½ inch. You want to make sure you leave around 6 inches of thread at the beginning and end. Don’t forward and back stitch. 
 
@@ -102,7 +104,7 @@ Mark the center of the front and back pieces with a pin. On the waistband, mark 
 
 It doesn’t have to be perfect. The waistband should have three pins in it, breaking it up into four even pieces. These markings allow you to line up the gathers a little better than just winging it. 
 
-![gathering]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/gathering.jpg)
+![gathering](/assets/images/blogs/April2021/gatheredSkirt/gathering.jpg)
 
 Hold onto the fabric and gently pull the bobbin thread from the gather stitches you just made. Your fabric will begin to bunch up. Continue to gently pull and redistribute the bunching down the skirt. Pull the bobbin threads on each side to complete the gathers. You want to gather the front and back pieces until they are the same length as the waistband.
 
@@ -112,11 +114,11 @@ Pin the interfaced side of the waistband to the font/back pieces, right sides to
 
 Take it to your machine and slowly sew this seam with a ⅜ inch seam allowance. Redistribute gathers as you go if needed.
 
-![pressSeam]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/pressSeam.jpg)
+![pressSeam](/assets/images/blogs/April2021/gatheredSkirt/pressSeam.jpg)
 
 Press this seam that you just sewed up towards your waistband. You will hide all of these edges in the waistband. Be sure not to iron your gathers! I just take the tip of my iron and press along the seam.
 
-![ironTopHem]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/ironTopHem.jpg)
+![ironTopHem](/assets/images/blogs/April2021/gatheredSkirt/ironTopHem.jpg)
 
 While you're with your iron, iron a ¼ inch hem at the top of the waistband. Ironing this now will help you later!
 
@@ -124,41 +126,41 @@ You don’t need a 20 inch long zipper for this skirt. You just really need the 
 
 Take your zipper to your sewing machine and slowly sew back and forth an inch above the end of the zipper. This will stop your zipper pull from running off the end of your zipper.
 
-![instalZipper]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/instalZipper.jpg)
+![instalZipper](/assets/images/blogs/April2021/gatheredSkirt/instalZipper.jpg)
 
 Next, we are installing the side zipper. Place the right side of your zipper (the side without the teeth) to the right side of your fabric, all the way up next to the end of the interfacing. Line up the sides and pin. Sew a set of basting stitches, just to hold your zipper in place. (You will take these out later.) Leave the bottom inch of the zipper not sewn into place. 
 
-![sewZipper]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/sewZipper.jpg)
+![sewZipper](/assets/images/blogs/April2021/gatheredSkirt/sewZipper.jpg)
 
 Using an invisible zipper foot or a zipper foot, sew the invisible zipper into place. Once again, leaving the bottom inch not sewn into the fabric. This extra zipper space will help us close this seam. 
 
-![foldOver]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/foldOver.jpg)
+![foldOver](/assets/images/blogs/April2021/gatheredSkirt/foldOver.jpg)
 
 Take your waistband and fold it in half, right sides together. The fabric will lay over the zipper. Line up the side seams and pin in place. Make sure you pin the ¼ inch hem you ironed earlier. Sew the top waistband down as close to the zipper as possible. (Be sure to not sew into the zipper, this will make it unusable!) Turn this right side out and your zipper will be neatly sandwiched in the waistband!
 
 Open the zipper and repeat the zipper install on the other side of the skirt.
 
-![secondSideSeam]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/secondSideSeam.jpg)
+![secondSideSeam](/assets/images/blogs/April2021/gatheredSkirt/secondSideSeam.jpg)
 
 Pin the remaining side seam together (beneath the zipper) and sew together with a ⅜ inch seam allowance. When you get close to the zipper you want to angle your stitches so they form a smooth line up to your zipper. You may not be able to get super close to your zipper that's okay! Just get as close as you can.
 
 Try it on! You’re so close to being done. Make sure the waistband feels okay. Move around, sit, stand, dance. Do what you gotta do. 
 
-![makeSmaller]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/makeSmaller.jpg)
+![makeSmaller](/assets/images/blogs/April2021/gatheredSkirt/makeSmaller.jpg)
 
 If it’s too loose you can take the non-zippered side seam in a bit, like I did above. I just tapered it to the gathered seam and you can’t really see the alteration when I’m wearing the skirt. If you’re a perfectionist, you can take the whole skirt apart and start over with smaller pieces. (I’m so sorry…)
 
-![pinWaistbandClosed]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/pinWaistbandClosed.jpg)
+![pinWaistbandClosed](/assets/images/blogs/April2021/gatheredSkirt/pinWaistbandClosed.jpg)
 
 Next you will fold over the rest of your waistband, wrong sides together. You want it to come just over the edge of the stitches that are holding the waistband to the body. Pin this into place. You want to make sure that your previous stitches can’t be seen!
 
-![stitchInDitch2]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/stitchInDitch2.jpg)
+![stitchInDitch2](/assets/images/blogs/April2021/gatheredSkirt/stitchInDitch2.jpg)
 
 We are going to stitch in the ditch to connect the inside waistband to the skirt. You want to sew painfully slow and make sure your needle hits right in the seam connecting the body and the waistband. 
 
 As you sew, try to feel the fabric underneath to make sure the machine is catching the inside waistband fabric. Also, be sure to pull out your pins! You don’t want to sew over any of them.
 
-![hemBottom]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/hemBottom.jpg)
+![hemBottom](/assets/images/blogs/April2021/gatheredSkirt/hemBottom.jpg)
 
 And finally, just hem the bottom of your skirt. The pattern is designed with a hem that is ⅝” folded over twice. 
 
@@ -166,15 +168,15 @@ This is an easy place to adjust length. If you want it shorter or longer just ad
 
 ## Celebrate!
 
-![hemBottom]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/final.jpg)
+![hemBottom](/assets/images/blogs/April2021/gatheredSkirt/final.jpg)
 
 Woohoo! You just sewed a skirt. Hopefully you learned something along the way. You can easily modify this pattern by adding pockets, adjusting the length, adding tiers, or adding a bib and making it into a pinafore. Get creative! 
 
 If you make this skirt, please share it with me on [Instagram!](https://www.instagram.com/joyberrystudios/?hl=en) I would love to see your work. 
 
-![funPhoto1]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/funPhoto1.jpg)
+![funPhoto1](/assets/images/blogs/April2021/gatheredSkirt/funPhoto1.jpg)
 
-![funPhoto2]![shirtNo1](/assets/images/blogs/April2021/gatheredSkirt/funPhoto2.jpg)
+![funPhoto2](/assets/images/blogs/April2021/gatheredSkirt/funPhoto2.jpg)
 
 <br>
 
