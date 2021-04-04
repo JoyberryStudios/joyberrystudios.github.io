@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "How to Sew a Gathered Skirt - With an Invisible Zipper and Only Two Measurements"
+title: "How to Sew a Gathered Skirt - With an Invisible Zipper and Two Measurements"
 image: /assets/images/blogs/April2021/gatheredSkirt/mainGatheredSkirt.jpg
 date: 2021-04-02
 tags: sewing garments 
