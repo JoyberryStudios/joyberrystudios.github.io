@@ -1,14 +1,12 @@
 ---
 layout: blogpost
-title: ""
+title: "DIY Stenciled Coasters - How to Get a Flawless Painted Stencil"
 image: /assets/images/blogs/April2021/coasters/coastersMain.jpg
 date: 2021-04-04
 tags: home DIY
 description: "spraypaint coasters"
 comments: true
 ---
-
-DIY Stenciled Painted Coasters - How to Get a Flawless Painted Stencil
 
 Who doesn’t love a good DIY that looks professional? These coasters turned out so well and I have so many tips on how to get a flawless stencil (which you can apply to other projects!)
 
@@ -43,9 +41,9 @@ Let your primer dry for the suggested amount of time.
 
 ![whiteBase](/assets/images/blogs/April2021/coasters/whiteBase.jpg)
 
-Once it is dry and ready, apply a coat of your base color (white in my example). *I suggest focusing on spray painting the edges, and the over spray will be more than enough for the top.*
+Once it is dry and ready, apply a coat of your base color (white in my example). **I suggest focusing on spray painting the edges, and the over spray will be more than enough for the top.**
 
-Read the label on your paint and see when you can apply a second coat. *In order to get a smooth finish on your coasters, you need to follow the suggested dry times on your paint!*
+Read the label on your paint and see when you can apply a second coat. **In order to get a smooth finish on your coasters, you need to follow the suggested dry times on your paint!**
 
 ## Prep Stencil
 
@@ -57,11 +55,11 @@ Upload the file to whatever cutting software you are using (I used a Cricut). Yo
 
 ![peelVinyl](/assets/images/blogs/April2021/coasters/peelVinyl.jpg)
 
-*Cut out the stencil in vinyl.* Vinyl works really well because it has a tight bond to the coasters when we go to spray paint them! Weed out all of the parts of the stencil that you want to paint in. 
+**Cut out the stencil in vinyl.** Vinyl works really well because it has a tight bond to the coasters when we go to spray paint them! Weed out all of the parts of the stencil that you want to paint in. 
 
 ![contactPeel](/assets/images/blogs/April2021/coasters/contactPeel.jpg)
 
-Transfer your weeded vinyl to transfer tape, peel off the vinyl backing, and stick it onto your coaster. *Peel off your transfer tape by pulling it parallel to the surface.* This sharp angle helps prevent the vinyl from coming off.
+Transfer your weeded vinyl to transfer tape, peel off the vinyl backing, and stick it onto your coaster. **Peel off your transfer tape by pulling it parallel to the surface.** This sharp angle helps prevent the vinyl from coming off.
 
 ![vinylOnCoaster](/assets/images/blogs/April2021/coasters/vinylOnCoaster.jpg)
 
@@ -71,7 +69,7 @@ Make sure there aren’t any bubbles within the vinyl stencil and that everythin
 
 ![whiteStencil](/assets/images/blogs/April2021/coasters/whiteStencil.jpg)
 
-Here is the biggest game changer when painted stencils. *The first stencil coat of paint should be your base coat color.* This helps seal in all of the edges and if there is a leak, it will be with the same color underneath and won’t be noticeable!
+Here is the biggest game changer when painted stencils. **The first stencil coat of paint should be your base coat color.** This helps seal in all of the edges and if there is a leak, it will be with the same color underneath and won’t be noticeable!
 
 ![graySpray](/assets/images/blogs/April2021/coasters/graySpray.jpg)
 
@@ -81,7 +79,7 @@ Once again, double check your paint for directions on when to apply a second coa
 
 ![partialPeelPainted](/assets/images/blogs/April2021/coasters/partialPeelPainted.jpg)
 
-This is the worst part of this project, but makes all the difference. *Before you peel off the vinyl, you have to wait for your paint to fully dry.* This took 48 hours for my paint.
+This is the worst part of this project, but makes all the difference. **Before you peel off the vinyl, you have to wait for your paint to fully dry.** This took 48 hours for my paint.
 
 I tried to take off my vinyl before, but the paint wasn’t fully hardened and I just put a lot of dents into my paint. Do yourself a favor and seriously wait!
 
@@ -124,21 +122,6 @@ Feel free to add a clear coat to the coasters if you want extra protection, but 
     <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
 </label>
     <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group size1of2">
-    <label for="mce-BIRTHDAY-month">Birthday </label>
-    <div class="datefield">
-        <span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
-        <span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
-        <span class="small-meta nowrap">( mm / dd )</span>
-    </div>
-</div><div class="mc-field-group">
-    <label for="mce-OPTIN">OPTIN </label>
-    <input type="text" value="" name="OPTIN" class="" id="mce-OPTIN">
 </div>
     <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
