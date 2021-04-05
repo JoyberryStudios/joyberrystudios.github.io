@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "Download Freebies!"
+title: " "
 image: /assets/images/blogs/aboutMe/freebies.jpg
 ---
 
