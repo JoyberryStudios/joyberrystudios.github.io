@@ -9,3 +9,6 @@ Thank you so much for keeping in touch with Joyberry Studios through the email l
 ![coaster](/assets/images/blogs/April2021/coasters/coasterMarble.jpg)
 
 [coaster SVG file](/assets/freebies/coasterTemplate.svg)
+
+<br>
+<br>
