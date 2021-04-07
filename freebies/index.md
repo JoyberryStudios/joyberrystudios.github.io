@@ -10,17 +10,17 @@ All of these freebies are for personal use only. Please do not sell these files 
 
 ![coaster](/assets/images/blogs/April2021/coasters/coasterMarble.jpg)
 
-[Coaster SVG File](/assets/freebies/coasterTemplate.svg)
+[Coaster SVG File](/freebies/coasterTemplate.svg)
 
-![frames](/assets/images/blogs/freebies/mantelPrints.jpg)
+![frames](/freebies/mantelPrints.jpg)
 
 **All images are a large size (~13"x18") so you will probably need to resize them.
 
-[Pink Floral PNG](/assets/freebies/pinkFlorals.png)
+[Pink Floral PNG](/freebies/pinkFlorals.png)
 
-[Green Lines & Florals PNG](/assets/freebies/greenFlorals.png)
+[Green Lines & Florals PNG](/freebies/greenFlorals.png)
 
-[Geometric Shapes PNG](/assets/freebies/geometricShapes.png)
+[Geometric Shapes PNG](/freebies/geometricShapes.png)
 
 <br>
 <br>
