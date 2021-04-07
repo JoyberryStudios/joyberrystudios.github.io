@@ -12,9 +12,9 @@ All of these freebies are for personal use only. Please do not sell these files 
 
 [Coaster SVG File](/assets/freebies/coasterTemplate.svg)
 
-![frames](/assets/images/blogs/freebies/)
+![frames](/assets/images/blogs/freebies/mantelprints.jpg)
 
-**All images are size large (~13"x18") so you will probably need to resize them.
+**All images are a large size (~13"x18") so you will probably need to resize them.
 
 [Pink Floral PNG](/assets/freebies/pinkFlorals.png)
 
