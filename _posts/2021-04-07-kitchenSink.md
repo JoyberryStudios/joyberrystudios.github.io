@@ -67,7 +67,7 @@ I contemplated getting rid of the trash bag box, but it is so convenient that th
 
 I have a white kitchen sink, which easily gets a grimy coat over it. I just scrub it with baking soda. (It’s cheap and always in my pantry!) This is always a satisfying and easy clean
 
-![kitchenCady](/assets/images/blogs/April2021/sinkOrganization/KtitchenCady.jpg)
+![kitchenCady](/assets/images/blogs/April2021/sinkOrganization/ktichenCady.jpg)
 
 I also think it looks a lot better if your soaps and dish scrubber have a little home. I sit them on this little dish that I got from Target in the bathroom section. I didn’t link it because I actually don’t recommend it. It has already chipped in several places and stained. But I like the overall look!
 
