@@ -30,6 +30,9 @@ I found all of my things sorted into towels, cleaning supplies, trash bags, pape
 
 At this point too you can also purge or find a new space for things you know you won’t use or that doesn’t make sense to store under the sink. I tossed some cleaners, the Mr. Eraser box, and relocated my plastic bags for recycling to the garage.
 
+**Real talk girl talk: if your kitchen sink was full before this organization and you don’t get rid of anything, it will still be a hot mess express after this organization.** Clutter (read: too much stuff) is the root cause of most messes. Do your future self a favor and let go of that bottle of cleaner you bought during the beginning of the pandemic that you will never use!
+
+
 ## Clean
 
 ![clean](/assets/images/blogs/April2021/sinkOrganization/clean.jpg)
@@ -64,7 +67,7 @@ I contemplated getting rid of the trash bag box, but it is so convenient that th
 
 I have a white kitchen sink, which easily gets a grimy coat over it. I just scrub it with baking soda. (It’s cheap and always in my pantry!) This is always a satisfying and easy clean
 
-![kitchenCady](/assets/images/blogs/April2021/sinkOrganization/kitchenCady.jpg)
+![kitchenCady](/assets/images/blogs/April2021/sinkOrganization/KtitchenCady.jpg)
 
 I also think it looks a lot better if your soaps and dish scrubber have a little home. I sit them on this little dish that I got from Target in the bathroom section. I didn’t link it because I actually don’t recommend it. It has already chipped in several places and stained. But I like the overall look!
 
