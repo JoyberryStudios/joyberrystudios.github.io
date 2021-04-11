@@ -1883,7 +1883,7 @@ ul.shortcode-archive li {
 	}
 		.main-navigation a {
 				display:block;
-				padding:0.5em 0;
+				padding:0.5em 3.5em;
 				text-decoration:none;
 	}
 	.main-navigation ul {
@@ -1894,7 +1894,7 @@ ul.shortcode-archive li {
 				margin:0;
 				position:relative;
 				padding:0;
-				text-align:center;
+				text-align:left;
 	}
 		.main-navigation li:last-child {
 				border-bottom:0;
