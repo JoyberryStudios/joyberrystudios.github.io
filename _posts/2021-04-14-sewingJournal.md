@@ -40,31 +40,31 @@ Each project takes up two pages, so when the journal lays open I can see all the
 
 Feel free to take any of these details and add them to your own sewing journal. Maybe you only sew for yourself. Then adding a recipient wouldn’t really make sense. I also add a few other suggestions for different details to note towards the end of this post.
 
-* Photos
+**Photos**
 
 I try to include a photo with a flat lay or a close up on a certain detail I liked about the garment and a second photo of the recipient wearing the garment.  
 
-* Date
+**Date**
 
 I just like to include the month and the year at the top of the page. 
 
-* Pattern
+**Pattern** 
 
 Include the name of the pattern and the designer.
 
-* Size
+**Size**
 
 Be sure to include if you graded between sizes, or did different sizes in different areas. This is also where I note if I would like to try a different size in the future.
 
-* Recipient
+**Recipient**
 
 Fun to note if it is a gift! 
 
-* Fabric
+**Fabric**
 
 I like to note the kind of fabric, name of the color, where I got it from, and the weight if it isn’t super clear, like with a cotton fabric.
 
-* Notes
+**Notes**
 
 ![detailsPage](/assets/images/blogs/April2021/sewingJournal/detailsPage.jpg)
 
@@ -73,7 +73,7 @@ This is where I note any modifications that I made or modifications that I would
 
 Part of sewing is the love and experience that goes into making the garment. Did I feel rushed? Was this a confident fast sew? Did I love the fabric on the bolt but not on my body? Reflecting back on projects makes me feel more confident diving into the next one.
 
-* Fabric Swatch
+**Fabric Swatch**
 
 I also love to include a fabric swatch. This is a fun way to have a more tactile response when remembering a garment. I also love to be able to go back and feel different weights of different fabrics. 
 
@@ -82,7 +82,7 @@ Just keep in mind where you insert your fabric swatch. If it is in the same plac
 
 ## Extra Pages
 
-* Measurements
+**Measurements**
 
 ![measurements](/assets/images/blogs/April2021/sewingJournal/measurements.jpg)
 
@@ -90,13 +90,14 @@ When I first started sewing I kept taking and retaking my measurements with ever
 
 I loved this [printable table from The Fold Line.](https://thefoldline.com/2018/12/08/the-sewing-pattern-tutorials-9-measuring-yourself/) They have several different printouts with different body types and one option with a lot more measurements. I chose this simple one, because I use these three measurements the most. I just keep it in the front of my journal, so it is always easy to find!
 
-* Table of Contents
+**Table of Contents**
 
 ![tableOfContents](/assets/images/blogs/April2021/sewingJournal/tableOfContents.jpg)
 
 A table of contents can be an easy way to find a project. Typically it should be placed in the front. I didn’t want to take the time to write out all of the page numbers and then fill in the empty table of contents just to make sure I reserved enough pages. Instead I just put it in the back of my notebook and I work backwards. 
 
 I also like to put more than just the pattern name in the table of contents. I write down whatever makes the project memorable to me. I have made 11 Geranium dresses at this point. Writing Geranium Dress #5 doesn’t really help.
+
 
 ## Other Ideas
 
