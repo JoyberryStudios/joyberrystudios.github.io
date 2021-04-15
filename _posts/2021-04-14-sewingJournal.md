@@ -17,9 +17,11 @@ This is where a sewing journal comes in. A sewing journal, log book, or project 
 
 ![writing](/assets/images/blogs/April2021/sewingJournal/writing.jpg)
 
-Sewing journals are an easy way to track your progress in garment sewing and be able to see and admire all of your projects in one place. Sometimes I make garments as gifts or my daughter outgrows them and they get tucked away. My sewing journal is an easy way to reminisce on all of my previous projects and to see how much I’ve truly sewn.
-It is a great way to remember details on your projects. If you want to make the same pattern again, referring back to your previous project can help jog your memory for tricky areas or things you wished you had done differently.
-It can be your go to place to jot down measurements and other sewing tidbits that you may refer to frequently. 
+1. Sewing journals are an easy way to track your progress in garment sewing and be able to see and admire all of your projects in one place. Sometimes I make garments as gifts or my daughter outgrows them and they get tucked away. My sewing journal is an easy way to reminisce on all of my previous projects and to see how much I’ve truly sewn.
+
+2. t is a great way to remember details on your projects. If you want to make the same pattern again, referring back to your previous project can help jog your memory for tricky areas or things you wished you had done differently.
+
+3. It can be your go to place to jot down measurements and other sewing tidbits that you may refer to frequently. 
 
 ## Where to find them
 
