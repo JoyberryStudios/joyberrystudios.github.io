@@ -98,20 +98,20 @@ A table of contents can be an easy way to find a project. Typically it should be
 
 I also like to put more than just the pattern name in the table of contents. I write down whatever makes the project memorable to me. I have made 11 Geranium dresses at this point. Writing Geranium Dress #5 doesn’t really help.
 
-##Other Ideas
+## Other Ideas
 
 There are so many other things that you can include in your journal. That's why I like making my own, it is easily customizable! Here is just a list of a few ideas
 
-*Sewing Machine Settings
-*Thread
-*Skills Learned
-*Notions
-*Total Cost
-*Sketches
-*Other Measurements
-*Me Made May Planner
-*Monthly Planning Pages
-*Wardrobe Planning Pages
+* Sewing Machine Settings
+* Thread
+* Skills Learned
+* Notions
+* Total Cost
+* Sketches
+* Other Measurements
+* Me Made May Planner
+* Monthly Planning Pages
+* Wardrobe Planning Pages
 
 ## Share!
 
