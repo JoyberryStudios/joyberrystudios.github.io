@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "DIY Paint Glasses - With Permanent Paint"
+title: "DIY Painted Glasses - With a Technique to Make Your Paint Permanent"
 image: /assets/images/blogs/April2021/paintedGlasses/paintedGlassesMain.jpg
 date: 2021-04-21
 tags: home DIY
@@ -23,13 +23,15 @@ The best part about these glasses is that they are dishwasher safe and hold the 
 
 ![supplies](/assets/images/blogs/April2021/paintedGlasses/supplies.jpg)
 
-*Acrylic Paint (can be found at any craft store)
-*Paint Brushes
-*Clean Glasses (glass or ceramic, not plastic)
+* Acrylic Paint (can be found at any craft store)
+
+* Paint Brushes
+
+* Clean Glasses (glass or ceramic, not plastic)
 
 ## Prep
 
-![cleanBefore](/assets/images/blogs/April2021/paintedGlasses/cleanBefore.jpg)
+![clean](/assets/images/blogs/April2021/paintedGlasses/clean.jpg)
 
 Make sure that your glasses are CLEAN. If there are any oils or residue on them the paint won’t stick as well. 
 
@@ -51,7 +53,7 @@ You can use the opposite end of your paint brush to make little dots all over yo
 
 You can free hand paint some pieces of confetti all over your glass. I liked adding different shapes and sizes of confetti here. To do this you can use just different size brushes. I also like that you can see a bit of the brush strokes in the glass. If you want a more opaque look, add a few coats!
 
-![tape](/assets/images/blogs/April2021/paintedGlasses/tape.jpg)
+![taped](/assets/images/blogs/April2021/paintedGlasses/taped.jpg)
 
 You can also use painters tape, washi tape, or electrical tape to block off part of the bottom of your glass to paint larger sections with a clean edge. 
 
@@ -69,7 +71,7 @@ Alternatively, you can let your glasses air dry for 21 days.
 
 ## Care
 
-![cleanFinished](/assets/images/blogs/April2021/paintedGlasses/cleanFinished.jpg)
+![clean](/assets/images/blogs/April2021/paintedGlasses/clean.jpg)
 
 Once cured, your painted dishes can withstand a lot! I did this technique years ago and the glasses have been in the dishwasher dozens of times and they still look great!
 
@@ -82,9 +84,13 @@ If you’re nervous, hand washing is always a safe route!
 I’m a big fan of mocktails. I do drink alcohol occasionally, but mocktails can be just as delicious without any impending headaches.
 
 *Ingredients*
-*2 Tablespoons - Mango Puree (throw some mangos in a blender)
-*2 Tablespoons - Ginger Syrup (1C sugar, 1C water, 3” of ginger peeled and thinly sliced simmered for 10 min)
-*Limes
+
+* 2 Tablespoons - Mango Puree (throw some mangos in a blender)
+
+* 2 Tablespoons - Ginger Syrup (1C sugar, 1C water, 3” of ginger peeled and thinly sliced simmered for 10 min)
+
+* Limes
+
 * ½ C - Seltzer
 
 Mix the mango puree, ginger syrup, and a few drops of lime together. Pour in seltzer and mix. Add Ice. Enjoy!
