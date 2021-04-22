@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "DIY Painted Glasses - With a Technique to Make Your Paint Permanent"
+title: "DIY Painted Glasses - With a Technique to Make The Paint Permanent"
 image: /assets/images/blogs/April2021/paintedGlasses/paintedGlassesMain.jpg
 date: 2021-04-21
 tags: home DIY
