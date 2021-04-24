@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "How to Make Your Own Personalized Sewing Journal - with details that matter the most to you!"
+title: "How to Make Your Own Personalized Sewing Journal"
 image: /assets/images/blogs/April2021/sewingJournal/sewingJournalMain.jpg
 date: 2021-04-14
 tags: sewing sewingTutorial
