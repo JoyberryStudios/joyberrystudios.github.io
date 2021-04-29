@@ -35,7 +35,7 @@ The final width of your box will be a little over ⅓ of the original width of y
 
 Once you have your square of paper, let's get folding. Place your paper so the printed side is facing down onto the table. Take your paper and fold it in half. Give it a nice crease. Open it up, turn it 90 degrees, and make the same fold again.
 
-![fourFirstFolds](/assets/images/blogs/April2021/origamiBox/firstFourFolds.jpg)
+![fourFirstFolds](/assets/images/blogs/April2021/origamiBox/fourFirstFolds.jpg)
 
 It should look like this once opened up.
 
@@ -59,7 +59,7 @@ Open up two opposite corners.
 
 This upcoming part can be a little tricky. Just stick with it and keep trying if you get stuck! Take the two sides that are still folded in and bend them so they are standing up. These are two sides of your box. 
 
-![foldSides](/assets/images/blogs/April2021/origamiBox/foldSidesDiagram.jpg)
+![foldSides](/assets/images/blogs/April2021/origamiBox/foldSideDiagram.jpg)
 
 Find the two squares with both the front and back of the paper showing (circled in photo). Stick your fingers on the back of these squares to bring that diagonal edge of paper into the middle of the box. You want the corners with the dots in the photo to be folded together to touch.
 
