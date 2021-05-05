@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "How to Make a Box out of Paper - Simple Origami Box"
-image: /assets/images/blogs/April2021/origamiBox/origamiBoxMain.jpg
+image: /assets/images/blogs/April2021/origamiBox/origamiBoxMain.png
 date: 2021-04-28
 tags: home DIY
 description: "simple origami box folded out of paper"
