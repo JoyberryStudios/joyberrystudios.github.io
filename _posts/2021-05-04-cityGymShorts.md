@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "7 Reasons Why You Need to Sew the City Gym Shorts from Purl Soho: Pattern Review"
+title: "7 Reasons Why You Need to Sew the Purl Soho City Gym Shorts : Pattern Review"
 image: /assets/images/blogs/May2021/cityGymShorts/pinterest1.png
 date: 2021-05-04
 tags: sewing garments
@@ -16,7 +16,7 @@ As I started writing this blog post there were so many highlights that I wanted 
 ## 1. Free Pattern & Scrap Busting Project
 
 ![mixMatch](/assets/images/blogs/May2021/cityGymShorts/mixMatch.jpg)
-*From [rosebudandpenny on Instagram](https://www.instagram.com/rosebudandpenny/] I love her use of mixing and matching fabrics!*
+*From [rosebudandpenny on Instagram](https://www.instagram.com/rosebudandpenny/) I love her use of mixing and matching fabrics!*
 
 Did I mention that it is a [FREE PATTERN!](https://www.purlsoho.com/create/2015/03/27/city-gym-shorts-in-lana-cotta-canberra/) Free patterns are some of my favorites to dive into. I feel like there isn’t as much pressure to make them perfect and it's not quite as much of a leap to start the project. They are available to everyone, just on the Purl Soho website!
 
@@ -45,7 +45,7 @@ The only fabric I would stay away from are heavy weight fabrics: home decor fabr
 ## 4. Dress Them Up or Down!
 
 ![sizes](/assets/images/blogs/May2021/cityGymShorts/dressUp.jpg)
-*From [paleredstitch on Instagram](https://www.instagram.com/paleredstitch/]*
+*From [paleredstitch on Instagram](https://www.instagram.com/paleredstitch/)*
 
 Based on what fabric you choose and if you add some extra customization there are so many possibilities for these shorts!
 
@@ -73,7 +73,7 @@ Easy to make for both kids and adults! Perfect if you have different sizes of sc
 ## 6. Easily Customizable
 
 ![romper](/assets/images/blogs/May2021/cityGymShorts/romper.jpg)
-*From [sprucestreetstudio on Instagram](https://www.instagram.com/sprucestreetstudio/]*
+*From [sprucestreetstudio on Instagram](https://www.instagram.com/sprucestreetstudio/)*
 
 There are so many fun hacks that you can do with this pattern! Here are just a few examples!
 
