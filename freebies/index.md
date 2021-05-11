@@ -8,6 +8,10 @@ Thank you so much for keeping in touch with Joyberry Studios through the email l
 
 All of these freebies are for personal use only. Please do not sell these files or things that you make with them. 
 
+![garden](/assets/images/blogs/May2021/buildGarden/doorOpen.jpg)
+
+[Home Depot Enclosed Garden Details](/freebies/HomeDepotEnclosedGarden.pdf)
+
 ![coaster](/assets/images/blogs/April2021/coasters/coasterMarble.jpg)
 
 [Coaster SVG File](/freebies/coasterTemplate.svg)
