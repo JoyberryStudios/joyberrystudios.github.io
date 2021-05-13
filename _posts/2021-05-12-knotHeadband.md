@@ -50,8 +50,6 @@ Fold one of your larger tubes of fabric in half, lengthwise. Place the fabric wi
 
 Slowly stitch back and forth over these several layers of fabric. You want to make sure this is a strong seam! Trim up the ends. You can use a bit of fabric glue to make sure these ends don’t fray. They will be hidden when you’re finished. You want to make sure everything is strong and it doesn’t deteriorate with use.
 
-![alignElastic](/assets/images/blogs/May2021/knotHeadband/alignElastic.jpg)
-
 Pinch and pull on the elastic so it peeks out of the other side of the fabric tube it is enclosed in. Give it a few quick stitches to make sure it doesn’t recede back into the fabric when you try to sew the other side. 
 
 ![wrap](/assets/images/blogs/May2021/knotHeadband/wrap.jpg)
@@ -67,6 +65,8 @@ Repeat the same process as before to attach the elastic to the headband piece. M
 Now this is the exciting part! Give the headband pieces a little bit of a tug away from the elastic and the elastic will pop into this little fold that is made. It instantly hides the raw edges and there aren't any crazy seam finishes or topstitching!
 
 ## Wear with Pride!
+
+![wearing](/assets/images/blogs/May2021/knotHeadband/wearing.jpg)
 
 This is such a fun, easy, and fast sewing project! I got carried away and made four in one night! I also love that it is a perfect scrap busting project and one that I will absolutely use and enjoy.
 
