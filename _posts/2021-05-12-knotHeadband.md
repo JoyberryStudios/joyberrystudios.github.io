@@ -10,7 +10,7 @@ comments: true
 
 Growing up I’ve always had “halo hairs”, those hairs that are too short to lay flat around your forehead. Instead they just stick out and make me look like a dandelion. They were cute when I was a little kid, but at 30 with postpartum hair they are in full swing and let’s just say it is not a polished look.
 
-![finalHeadband](/assets/images/blogs/May2021/knotHeadband/finalTwo.jpg)
+![finalHeadband](/assets/images/blogs/May2021/knotHeadband/finalOne.jpg)
 
 I’ve been wanting some hairbands for awhile. The large velvet ones aren’t really my style, I didn’t want a sports headband, and I was too nervous to just start purchasing some online until I found one that I liked. Then it occurred to me that I love a quick sewing project and I have a ton of scrap fabric to choose from! Obviously, I can just sew my dream headband.
 
