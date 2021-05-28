@@ -73,7 +73,7 @@ I put up a gate in our doorway to keep our cats/child in, opened the door, and g
 
 ## Taping vs. Cutting In
 
-![cutting in](/assets/images/blogs/May2021/paintFrontDoor/cuttingIn.jpg)
+![cutting in](/assets/images/blogs/May2021/paintFrontDoor/cutIn.jpg)
 
 If you feel like taping, go for it. I personally don’t like taping. I find that the paint bubbles under it and I still get paint where I don’t want it. I feel like I can’t trust it to do its job and it also takes time and supplies to tape before painting. 
 
