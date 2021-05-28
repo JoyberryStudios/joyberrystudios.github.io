@@ -1,0 +1,40 @@
+---
+layout: default
+title: Joyberry Studios
+---
+<!-- #masthead -->
+<div id="content" class="site-content">
+    <div id="primary" class="content-area column full">
+        <main id="main" class="site-main">
+        <div class="grid portfoliogrid">
+            {% for post in site.posts limit:6 offset:30 %}
+            <article class="hentry">
+            <header class="entry-header">
+            <div class="entry-thumbnail">
+                <a href="{{ post.url }}"><img src="{{ post.image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
+            </div>
+            <h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+            </header>
+            </article>
+            {% endfor %}
+        </div>
+        <!-- .grid -->
+        <div class="scroller-status">
+            <div class="loader-ellips infinite-scroll-request">
+                <span class="loader-ellips__dot"></span>
+                <span class="loader-ellips__dot"></span>
+                <span class="loader-ellips__dot"></span>
+                <span class="loader-ellips__dot"></span>
+            </div>
+            <p class="scroller-status__message infinite-scroll-last"></p>
+            <p class="scroller-status__message infinite-scroll-error"></p>
+        </div>
+        <!-- pagination has path -->
+        <p class="pagination">
+        </p>
+        </main>
+        <!-- #main -->
+    </div>
+    <!-- #primary -->
+</div>
+<!-- #content -->
