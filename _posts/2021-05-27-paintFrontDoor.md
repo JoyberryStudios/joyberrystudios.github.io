@@ -61,7 +61,7 @@ I put up a gate in our doorway to keep our cats/child in, opened the door, and g
 
 ## Materials
 
-![materials](/assets/images/blogs/May2021/paintFrontDoor/materials.jpg)
+![supplies](/assets/images/blogs/May2021/paintFrontDoor/supplies.jpg)
 
 * Exterior Paint
 
