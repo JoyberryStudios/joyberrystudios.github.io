@@ -20,17 +20,18 @@ I like to minimize the number of times that I go between my iron and sewing mach
 I also made my bag with a plain gray fabric for the straps and main bag and a contrasting pocket. You can easily mix fabric patterns here. Maybe you also make the straps out of a contrasting fabric. Go for something bold! Or subtle! Or whatever your heart desires!
 
 RST: right sides (patterned sides) of the fabric face together
+
 WST: wrong sides (back sides) of the fabric face together
 
 ## Fabric Cuts
 
 ![fabricCuts](/assets/images/blogs/May2021/foldableBag/fabricCuts.jpg)
 
-*Main Bag: 16” x 36”
+* Main Bag: 16” x 36”
 
-*Straps: 4” x 28”
+* Straps: 4” x 28”
 
-*Pocket: 6” x 12”
+* Pocket: 6” x 12”
 
 ## Assembling
  
