@@ -71,7 +71,7 @@ WST: wrong sides (back sides) of the fabric face together
 
 ![pocketPlacement](/assets/images/blogs/May2021/foldableBag/pocketPlacement.jpg)
 
-12. At this point you can decide whether you want the outside of the bag to show this folded strap or not. I think it’s a cute detail, so I kept mine on the outside. Fold your bag in half, aligning the straps on the top. Place your pocket in the middle of the bag. You can either eyeball it or use a ruler to find the exact middle. My pocket was () from the top and () from the side. Pin the pocket in place to just one side of the fabric.
+12. At this point you can decide whether you want the outside of the bag to show this folded strap or not. I think it’s a cute detail, so I kept mine on the outside. Fold your bag in half, aligning the straps on the top. Place your pocket in the middle of the bag. You can either eyeball it or use a ruler to find the exact middle. My pocket was 5.5 inches from the top and 5.25 inches from the side. Pin the pocket in place to just one side of the fabric.
 
 ![finalPocket](/assets/images/blogs/May2021/foldableBag/finalPocket.jpg)
 13. Sew your pocket into place. Be sure to forward and back stitch a few times at the top of each side. This side of the pocket will have a lot of stress, so we want to make sure it is a strong seam!
