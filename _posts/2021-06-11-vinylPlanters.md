@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "How to Upgrade Ikea Planters with Your Cricut and Vinyl - Free Design File Download!"
+title: "How to Upgrade Ikea Planters with Your Cricut - Free Design File Download!"
 image: /assets/images/blogs/June2021/vinylPlanters/pinterest3.png
 date: 2021-06-11
 tags: home DIY
@@ -39,7 +39,7 @@ I made three different vinyl decals with my [Cricut](https://cricut.com/en_us/cr
 
 ![cricut](/assets/images/blogs/June2021/vinylPlanters/cricut.jpg)
 
-You can then upload the files to Cricut Design Space or whatever other vinyl machine cutting program you may use. Once uploaded you will need to resize them to be () to fit the Kypon pot from Ikea. If you’re using another pot, you can resize them to your heart's desire!
+You can then upload the files to Cricut Design Space or whatever other vinyl machine cutting program you may use. Once uploaded you will need to resize them to be 12.56 inches wide to fit the 3.5 inch Kypon pot from Ikea. If you’re using another pot, you can resize them to your heart's desire! Just do circumference = 3.14 * diameter. (See, math class DOES matter!!)
 
 A big important note for Cricut Design Space users. You need to HIGHLIGHT THE DESIGN AND PRESS WELD. This makes it all one big cut instead of dozens of smaller cuts. At first, I just hit weld, and it took my computer three hours to figure out the file. 
 
