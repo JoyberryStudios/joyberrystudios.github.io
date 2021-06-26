@@ -9,7 +9,7 @@ comments: true
 ---
 I’ve been doing a few things to help spruce up our front porch a bit. We got some fun hanging baskets from [Groovy Plants Ranch](https://www.groovyplantsranch.com). The leaves feel a bit like succulent leaves, and the flowers have been great and blooming ever since!
 
-![original](/assets/images/blogs/June2021/paintedDoormat/original.jpg)
+![original](/assets/images/blogs/June2021/paintedDoormat/original.JPG)
 
 I also painted my [front door](https://joyberrystudios.com/2021/05/27/paintFrontDoor.html) from a deep red to a fun pop of blue. 
 
