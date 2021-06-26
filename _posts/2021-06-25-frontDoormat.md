@@ -9,7 +9,7 @@ comments: true
 ---
 I’ve been doing a few things to help spruce up our front porch a bit. We got some fun hanging baskets from [Groovy Plants Ranch](https://www.groovyplantsranch.com). The leaves feel a bit like succulent leaves, and the flowers have been great and blooming ever since!
 
-![original](/assets/images/blogs/June2021/frontDoormat/original.jpg)
+![original](/assets/images/blogs/June2021/paintedDoormat/original.jpg)
 
 I also painted my [front door](https://joyberrystudios.com/2021/05/27/paintFrontDoor.html) from a deep red to a fun pop of blue. 
 
@@ -33,7 +33,7 @@ Instead of hoping for the best, I took another route and just straight up hand p
 
 ## Materials
 
-![materials](/assets/images/blogs/June2021/frontDoormat/materials.jpg)
+![materials](/assets/images/blogs/June2021/paintedDoormat/materials.jpg)
 
 *Doormat (I got [this one from Target](https://www.target.com/p/1-39-11x2-39-11-34-solid-doormat-beige-room-essentials-8482/-/A-54190951)
 *Exterior Grade Latex Paint (leftovers from our door)
@@ -42,21 +42,21 @@ Instead of hoping for the best, I took another route and just straight up hand p
 
 ## Painting Technique
 
-![overhead](/assets/images/blogs/June2021/frontDoormat/overhead.jpg)
+![overhead](/assets/images/blogs/June2021/paintedDoormat/overhead.jpg)
 
 I wanted a simple geometric design that was fun, but not too loud. I decided on doing a geometric border with some simple lines. 
 
-![firstLine](/assets/images/blogs/June2021/frontDoormat/firstLine.jpg)
+![firstLine](/assets/images/blogs/June2021/paintedDoormat/firstLine.jpg)
 
 To make sure my first line was even and straight, I used painters tape as a guide around the outside. I placed a piece of tape so it just touched the edge of the doormat and I painted the exterior border line with a small flat edge craft brush right next to the tape.
 
 Be sure to leave space on the sides. You don’t want to paint right to the edge. I just eyeballed it and filled in any missing spaces later.
 
-![secondLine](/assets/images/blogs/June2021/frontDoormat/secondLine.jpg)
+![secondLine](/assets/images/blogs/June2021/paintedDoormat/secondLine.jpg)
 
 I wanted space between the exterior and interior borders so I could paint the smaller lines. I laid two pieces of tape against the exterior border to paint the interior border.
 
-![corner](/assets/images/blogs/June2021/frontDoormat/corner.jpg)
+![corner](/assets/images/blogs/June2021/paintedDoormat/corner.jpg)
 
 Painting the perpendicular smaller lines was a little bit of winging. I painted an angled line in the corner first and then filled in the rest with lines that I thought were around the same length and spaced evenly apart. 
 
@@ -64,7 +64,7 @@ I think just winging it is the best approach here. You have more flexibility to 
 
 ## Final Project
 
-![overhead](/assets/images/blogs/June2021/frontDoormat/overhead.jpg)
+![overhead](/assets/images/blogs/June2021/paintedDoormat/overhead.jpg)
 
 Overall, I am so happy with how this project turned out. I love how this front door mat is bigger than most (almost 2’x3’), I was able to customize it to my style, and it still didn’t break the bank ($20!)
 
