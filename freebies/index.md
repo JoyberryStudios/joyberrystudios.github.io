@@ -28,11 +28,11 @@ All of these freebies are for personal use only. Please do not sell these files 
 [Coaster SVG File](/freebies/coasterTemplate.svg)
 
 
-![frames](/freebies/mantelPrints.jpg)
+![frames](/freebies/mantel/mantelPrints.jpg)
 
 **All images are a large size (~13"x18") so you will probably need to resize them.
 
-[Pink Floral PNG](/freebies/mentel/pinkFlorals.png)
+[Pink Floral PNG](/freebies/mantel/pinkFlorals.png)
 
 [Green Lines & Florals PNG](/freebies/mantel/greenFlorals.png)
 
