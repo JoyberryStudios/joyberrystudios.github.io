@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "How to Store Printed PDF Sewing Patterns"
+title: "How to Store Printed PDF Sewing Patterns - inexpensive & easy method"
 image: /assets/images/blogs/August2021/storeSewingPatterns/pinterest1.png
 date: 2021-08-20
 tags: sewing garments sewingTutorials
