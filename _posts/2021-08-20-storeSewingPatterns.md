@@ -21,7 +21,7 @@ I needed a clean and neat way to store my sewing patterns. Through my research t
 * Hang the patterns on the hangers with pants clips.
 * Roll the patterns and secure with a rubber bands
 * Store the patterns in binders with clear plastic dividers.
-* File the patterns into manilla envelopes and label the outside.
+* File the patterns into manila folder and label the outside.
 
 ## Questions to Ask Yourself
 
@@ -37,13 +37,13 @@ When you’re considering pattern storage for your patterns, try to think of the
 
 These are all things to consider when choosing how to store your patterns!
 
-## Storing Sewing Patterns in Manilla Envelopes
+## Storing Sewing Patterns in Manila Folders
 
-Storing my patterns in manilla envelopes was the best option for me. I wanted to be able to store the patterns away neatly in a box. I felt like they had more room than the plastic binder sleeves. I also liked the idea that I could clearly label the outside of the envelopes for the specific pattern. I could also add notes to the envelope and have multiple envelopes for different sizes of the same pattern. It also just gave me the most flexibility.
+Storing my patterns in manila folders or envelopes was the best option for me. I wanted to be able to store the patterns away neatly in a box. I felt like they had more room than the plastic binder sleeves. I also liked the idea that I could clearly label the outside of the envelopes for the specific pattern. I could also add notes to the envelope and have multiple envelopes for different sizes of the same pattern. It also just gave me the most flexibility.
 
  ![patternStorageMaterials](/assets/images/blogs/August2021/storeSewingPatterns/patternMaterials.jpg)
 
-Some sewists write the pattern name on the envelope. You can easily go this route if you want to. I thought it would look cleaner and be easier to leaf through if I printed out the first page or title page of each pattern and glued it to the front of the envelope.
+Some sewists write the pattern name on the folder. You can easily go this route if you want to. I thought it would look cleaner and be easier to leaf through if I printed out the first page or title page of each pattern and glued it to the front of the folder.
 
  ![storingSewingPatterns](/assets/images/blogs/August2021/storeSewingPatterns/storingPatterns.jpg)
 
