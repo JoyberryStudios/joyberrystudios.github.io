@@ -62,7 +62,7 @@ You don’t need anything super fancy when you dry your flowers. Just some twine
 
 Gather your flowers or grasses into a bundle. Dried flowers can become delicate once they are dried, so arrange your flowers how you would like them to look when they are displayed dried.
 
-![tied Lavender](/assets/images/blogs/August2021/driedLavendar/tiedLavendae.jpg)
+![tied Lavender](/assets/images/blogs/August2021/driedLavendar/tiedLavender.jpg)
 
 Tie your bouquet at least twice down the stems. You really want to make sure the flowers are tight and don’t fall out since you will be hanging this upside down. Take another piece of string and make a loop to hang the bouquet from.
 
