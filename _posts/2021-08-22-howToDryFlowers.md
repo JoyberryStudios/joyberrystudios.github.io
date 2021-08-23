@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "How to Hang Dry Lavender, Grasses, and Flowers - Preserved Florals"
-image: /assets/images/blogs/August2021/driedLavender/pinterest1.png
+image: /assets/images/blogs/August2021/driedLavendar/pinterest1.png
 date: 2021-08-22
 tags: home DIY
 description: "how to hang dry lavender and other florals"
@@ -14,7 +14,7 @@ I love the idea of having plants in my home. At this moment in my life, indoor p
 
 ## Perks of Displaying Dried Plants
 
-![lavender and dried grasses](/assets/images/blogs/August2021/driedLavender/driedLavenderAndGrasses.jpg)
+![lavender and dried grasses](/assets/images/blogs/August2021/driedLavender/driedLavendarAndGrasses.jpg)
 
 Dried plants are trending right now. Dried grasses (lookin’ at you pampas grass) are all over social media. They are gorgeous and EASY. What is not to love?
 
@@ -27,13 +27,13 @@ If you think about the negatives for houseplants or bouquets of flowers, they ar
 
 ## Pick Your Flowers
 
-![lavenderPlants](/assets/images/blogs/August2021/driedLavender/lavenderPlants.jpg)
+![lavenderPlants](/assets/images/blogs/August2021/driedLavender/lavendarPlants.jpg)
 
 My neighbors grew the most impressive lavender earlier this summer. It cascaded down over their entire front walk and it was filled with bees. They said they couldn’t bring themselves to trim it back because of how much the bees loved it. It was absolutely worth walking on their grass instead of their sidewalk to have.
 
 My mom braved the bees while I stood a house away and she picked several stems for me. (I told her I didn’t want to risk my little toddler getting stung. I may also have some bee anxiety after a wasp flew up my shorts when I was riding my bike two summers ago.) 
 
-![lavenderPlantsCloseUp](/assets/images/blogs/August2021/driedLavender/closeUp.jpg)
+![lavenderPlantsCloseUp](/assets/images/blogs/August2021/driedLavendar/closeUp.jpg)
 
 If you don’t have any fresh lavender to pick, that's okay! I’ve done this technique before with some *grasses* I found outside and *eucalyptus* leaves from a flower bouquet someone gifted me.
 
@@ -56,19 +56,19 @@ Pick off those leaves before moving onto the next step!
 
 ## Hanging Your Flowers to Dry
 
-![materials to dry flowers](/assets/images/blogs/August2021/driedLavender/materials.jpg)
+![materials to dry flowers](/assets/images/blogs/August2021/driedLavendar/materials.jpg)
 
 You don’t need anything super fancy when you dry your flowers. Just some twine, string, or rubber bands. 
 
 Gather your flowers or grasses into a bundle. Dried flowers can become delicate once they are dried, so arrange your flowers how you would like them to look when they are displayed dried.
 
-![tied Lavender](/assets/images/blogs/August2021/driedLavender/tiedLavender.jpg)
+![tied Lavender](/assets/images/blogs/August2021/driedLavender/tiedLavendar.jpg)
 
 Tie your bouquet at least twice down the stems. You really want to make sure the flowers are tight and don’t fall out since you will be hanging this upside down. Take another piece of string and make a loop to hang the bouquet from.
 
 ## Drying Your Flowers
 
-![close up of dried lavender](/assets/images/blogs/August2021/driedLavender/closeDried.jpg)
+![close up of dried lavender](/assets/images/blogs/August2021/driedLavendar/closeDried.jpg)
 
 You want to hang your flowers so they are upside down. This will help the stems dry so they stand upright, instead of drooping down. 
 
