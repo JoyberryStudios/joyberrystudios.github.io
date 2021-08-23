@@ -14,7 +14,7 @@ I love the idea of having plants in my home. At this moment in my life, indoor p
 
 ## Perks of Displaying Dried Plants
 
-![lavender and dried grasses](/assets/images/blogs/August2021/driedLavender/driedLavendarAndGrasses.jpg)
+![lavender and dried grasses](/assets/images/blogs/August2021/driedLavendar/driedLavenderAndGrasses.jpg)
 
 Dried plants are trending right now. Dried grasses (lookin’ at you pampas grass) are all over social media. They are gorgeous and EASY. What is not to love?
 
@@ -27,7 +27,7 @@ If you think about the negatives for houseplants or bouquets of flowers, they ar
 
 ## Pick Your Flowers
 
-![lavenderPlants](/assets/images/blogs/August2021/driedLavender/lavendarPlants.jpg)
+![lavenderPlants](/assets/images/blogs/August2021/driedLavendar/lavenderPlants.jpg)
 
 My neighbors grew the most impressive lavender earlier this summer. It cascaded down over their entire front walk and it was filled with bees. They said they couldn’t bring themselves to trim it back because of how much the bees loved it. It was absolutely worth walking on their grass instead of their sidewalk to have.
 
@@ -62,7 +62,7 @@ You don’t need anything super fancy when you dry your flowers. Just some twine
 
 Gather your flowers or grasses into a bundle. Dried flowers can become delicate once they are dried, so arrange your flowers how you would like them to look when they are displayed dried.
 
-![tied Lavender](/assets/images/blogs/August2021/driedLavender/tiedLavendar.jpg)
+![tied Lavender](/assets/images/blogs/August2021/driedLavendar/tiedLavendae.jpg)
 
 Tie your bouquet at least twice down the stems. You really want to make sure the flowers are tight and don’t fall out since you will be hanging this upside down. Take another piece of string and make a loop to hang the bouquet from.
 
