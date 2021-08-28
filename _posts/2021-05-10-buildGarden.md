@@ -3,7 +3,7 @@ layout: blogpost
 title: "Build A Deer Proof Raised Garden Bed - Build Plans & Tips"
 image: /assets/images/blogs/May2021/buildGarden/pinterest3.png
 date: 2021-05-10
-tags: home DIY
+tags: home DIY plants
 description: "build an deer proof enclosed raised garden bed"
 comments: true
 ---

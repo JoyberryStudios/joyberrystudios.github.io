@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Hang Dry Lavender, Grasses, and Flowers - Preserved Florals"
 image: /assets/images/blogs/August2021/driedLavendar/pinterest1.png
 date: 2021-08-22
-tags: home DIY
+tags: home DIY plants
 description: "how to hang dry lavender and other florals"
 comments: true
 ---

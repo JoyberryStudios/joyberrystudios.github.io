@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Make a Foldable Tote Bag - That Easily Folds Up to Store in Your Purse"
 image: /assets/images/blogs/May2021/foldableBag/pinterest1.png
 date: 2021-06-05
-tags: sewing sewingHome sewingAccessories
+tags: sewing sewingHome sewingAccessories sewingScraps
 description: "how to sew a totebag that folds up easily to store in your purse"
 comments: true
 ---

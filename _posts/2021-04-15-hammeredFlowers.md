@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Make Hammered Flower Wall Art - A Quick & Simple DIY"
 image: /assets/images/blogs/April2021/hammeredFlowers/hammeredFlowersMain.jpg
 date: 2021-04-15
-tags: home DIY
+tags: home DIY plants
 description: "hammered flowers wall art tutorial"
 comments: true
 ---

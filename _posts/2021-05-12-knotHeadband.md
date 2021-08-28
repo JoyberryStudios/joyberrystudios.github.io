@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Sew a Knotted Headband - Woven Fabric & Quick Way to Hide the Seam"
 image: /assets/images/blogs/May2021/knotHeadband/pinterest2.png
 date: 2021-05-12
-tags: sewing sewingHome garments
+tags: sewing sewingHome sewingScraps
 description: "how to sew a knotted headband"
 comments: true
 ---

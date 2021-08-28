@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Paint Terracotta Pots - Geometric Design with Latex Paint "
 image: /assets/images/blogs/May2021/paintFlowerPots/pinterest1.png
 date: 2021-05-16
-tags: home DIY
+tags: home DIY plants
 description: "how to paint a terracotta pot"
 comments: true
 ---

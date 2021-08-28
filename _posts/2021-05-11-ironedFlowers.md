@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Press Flowers with an Iron - a faster way to get the pressed flower look"
 image: /assets/images/blogs/May2021/ironedFlowers/pinterest1.png
 date: 2021-05-11
-tags: home DIY
+tags: home DIY plants
 description: "how to iron press flowers"
 comments: true
 ---

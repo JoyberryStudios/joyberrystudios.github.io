@@ -3,7 +3,7 @@ layout: blogpost
 title: "How to Upgrade Ikea Planters with Your Cricut - Free Design File Download!"
 image: /assets/images/blogs/June2021/vinylPlanters/pinterest3.png
 date: 2021-06-11
-tags: home DIY
+tags: home DIY plants
 description: "how to upgrade an ikea nypon planter with geometric designs cut out of vinyl with a cricut "
 comments: true
 ---
