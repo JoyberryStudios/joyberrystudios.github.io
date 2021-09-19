@@ -21,7 +21,7 @@ Any closet that could be closed and clutter could be hidden was not a priority. 
 
 Yeah, this linen closet was pretty bad...
 
-All of our closets are painted this light yellow color. I’m pretty sure it is original paint from when the house was built in the 60’s. We also had cheap plastic teal bins that store expired medicine and a strangely large amount of first aid gauze. There are about 6 extra old towels for “guests” and all my hazardous cleaning supplies and extra TP are stored on the floor. Well within reach of my infant.
+All of our closets are painted this light yellow color. I’m pretty sure it is original paint from when the house was built in the 60’s. We also had cheap plastic teal bins that store expired medicine and a strangely large amount of first aid gauze. There are about 6 extra old towels for “guests” and all my hazardous cleaning supplies and extra TP are stored on the floor. Well within reach of my toddler.
 
 I’m sure we’ve all seen worse, but it definitely needed some attention and I knew there were a lot of things that I could easily change to make it work better for our family.
 

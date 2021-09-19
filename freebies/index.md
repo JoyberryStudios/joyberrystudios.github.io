@@ -8,6 +8,20 @@ Thank you so much for keeping in touch with Joyberry Studios through the email l
 
 All of these freebies are for personal use only. Please do not sell these files or things that you make with them. 
 
+![LinenClosetLabels](/assets/images/blogs/August2021/LinenCloset/boxes.jpg)
+
+[first aid label](/freebies/linenClosetLabels/firstAid.svg)
+
+[hair + body label](/freebies/linenClosetLabels/hairBody.svg)
+
+[kids label](/freebies/linenClosetLabels/kids.svg)
+
+[medicine label](/freebies/linenClosetLabels/medicine.svg)
+
+[misc label](/freebies/linenClosetLabels/misc.svg)
+
+[travel label](/freebies/linenClosetLabels/travel.svg)
+
 
 ![vinylPlanter](/assets/images/blogs/June2021/vinylPlanters/trioSide.jpg)
 
