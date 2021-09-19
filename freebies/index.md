@@ -8,7 +8,7 @@ Thank you so much for keeping in touch with Joyberry Studios through the email l
 
 All of these freebies are for personal use only. Please do not sell these files or things that you make with them. 
 
-![LinenClosetLabels](/assets/images/blogs/August2021/LinenCloset/boxes.jpg)
+![LinenClosetLabels](/assets/images/blogs/August2021/linenCloset/boxes.jpg)
 
 [first aid label](/freebies/linenClosetLabels/firstAid.svg)
 
