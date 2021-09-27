@@ -15,7 +15,7 @@ Do you have a friend that has a pothos plant already? Or did you know you can pu
 
 ## The Pothos Plant
 
-[![Maureen Elizabeth Interiors Pothos](/assets/images/blogs/Sept2021/pothos/maureenElizabethInteriors.jpg)](https://www.instagram.com/maureenelizabethinteriors/)
+[![Maureen Elizabeth Interiors Pothos](/assets/images/blogs/September2021/pothos/maureenElizabethInteriors.jpg)](https://www.instagram.com/maureenelizabethinteriors/)
 *Photo from [Maureen Elizabeth Interiors'](https://www.maureenelizabeth.com) [Instagram](https://www.instagram.com/maureenelizabethinteriors/)*
 
 Pothos plants are a popular houseplant for a good reason. They are incredibly easy to care for. If you are someone who has found your succulents dried and dead in the past (cough me cough) give yourself a shot with a pothos plant.
