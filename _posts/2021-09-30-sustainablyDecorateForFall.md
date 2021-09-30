@@ -20,7 +20,7 @@ Purchasing seasonal decor every season is not only expensive, it is also hard on
 
 Here are some of my favorite ways to decorate for and celebrate fall that don’t break the bank and don’t create unnecessary waste.
 
-##Bring the Outdoors In
+## Bring the Outdoors In
 
 Stereotypical fall images include brightly colored leaves and pumpkins. Take a hint and bring the outdoors inside to decorate. When the season is over, you can easily compost these things or throw (some of them) just back outside.
 
@@ -54,7 +54,7 @@ Gourds come in so many fun colors and shapes. They are typically smaller and you
 
 If you go apple picking or pick up some acorn squash, display them! They are perfect to keep out on the counter until they are eaten. I’m all about seasonal decor that can be used for something other than looking pretty.
 
-##Think Cozy
+## Think Cozy
 
 Cooler temperatures often make me want to get under a cozy blanket on the couch and watch a seasonal movie. The feeling of being cozy is quintessential fall for me. It can be a little hard at first to think about how the feeling of coziness translates to items in our home. Think of things that are warm and have texture.
 
@@ -70,13 +70,13 @@ Changing out our pillow covers is an easy way that I like to decorate for the se
 
 If you’re into sewing, I have [a basic zippered pillow tutorial](https://joyberrystudios.com/2021/02/06/pillows.html) and a [quilted pillow cover tutorial](https://joyberrystudios.com/2021/03/05/ohioQuiltPillow.html) on my blog!
 
-![candles](/assets/images/blogs/September2021/decorateForFall/candles.jpg)
+![candles](/assets/images/blogs/September2021/decorateForFall/candle.jpg)
 
 **Candles**
 
 Candles bring warmth into a room and are a simple way to add some coziness. Typically the fragrances used in them can be not so great. You can choose unscented beeswax candles or an essential oil based candle, like [Fontana Candle Company](https://fontanacandlecompany.com) as a better alternative. They also have wood wicks, which make a crackling noise. 
 
-##Taste & Smell
+## Taste & Smell
 
 ![oatmeal](/assets/images/blogs/September2021/decorateForFall/oatmeal.jpg)
 
@@ -86,7 +86,7 @@ The smell of pumpkin bread in the oven, waking up to a warm bowl of oatmeal, or 
 
 If you make seasonal baked goods, they also look great displayed on a cake stand on your counter or table. 
 
-##Use What You Have 
+## Use What You Have 
 
 There is no need to shame someone who bought plastic pumpkins last year. The goal is just to be more sustainable and aware when making purchases in the future. If you love the seasonal decor that you already have, put it out and use it!
 
