@@ -4,7 +4,7 @@ title: "Sustainable Halloween Decor - Free Bat, Crow, & Silhouette Downloads"
 image: /assets/images/blogs/October2021/decorateHalloween/pinterest3.png
 date: 2021-10-08
 tags: home holiday fall Halloween
-description: "How to Sustainably & Affordably Decorate for Fall"
+description: "Sustainable & Affordable Halloween Decor Ideas"
 comments: true
 ---
 
