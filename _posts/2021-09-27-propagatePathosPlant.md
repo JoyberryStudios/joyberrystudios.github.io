@@ -2,7 +2,7 @@
 layout: blogpost
 title: "How to Propagate & Care for a Pothos Plant"
 image: /assets/images/blogs/September2021/pothos/pinterest2.png
-date: 2021-11-27
+date: 2021-09-27
 tags: home DIY plants
 description: "How to propagate and care for a pothos plant"
 comments: true

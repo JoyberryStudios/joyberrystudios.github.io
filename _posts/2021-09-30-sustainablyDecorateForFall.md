@@ -2,7 +2,7 @@
 layout: blogpost
 title: "How to Sustainably Decorate for Fall - Affordable & Easy Tips!"
 image: /assets/images/blogs/September2021/decorateForFall/pinterest1.png
-date: 2021-11-30
+date: 2021-09-30
 tags: home holiday fall
 description: "How to Sustainably & Affordably Decorate for Fall"
 comments: true

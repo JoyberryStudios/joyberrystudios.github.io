@@ -9,7 +9,6 @@ comments: true
 ---
 
 
-
 Halloween kick starts the holiday season for me. It seems like we transition from Halloween to Thanksgiving to Christmas to New Years and then we have a long dark pause for winter with Valentine’s Day that tries to unsuccessfully cheer us up out of our winter slump.
 
 When it comes to decorating I have three big rules. Holiday decor should be:

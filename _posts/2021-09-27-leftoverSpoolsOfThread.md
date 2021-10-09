@@ -2,7 +2,7 @@
 layout: blogpost
 title: "4 Ways to Use Up Leftover Spools of Thread - Sustainable Sewing"
 image: /assets/images/blogs/September2021/leftoverThread/pinterest1.png
-date: 2021-11-27
+date: 2021-09-27
 tags: sewing sewingTutorials
 description: "How to use up leftover spools of sewing thread"
 comments: true
