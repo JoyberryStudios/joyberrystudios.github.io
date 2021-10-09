@@ -17,7 +17,11 @@ When it comes to decorating I have three big rules. Holiday decor should be:
 
 No big trip to Home Goods to buy plastic decorations that I have to store in my basement for next year. 
 
-I prefer quick things that I can make with what I have on hand, which in this case was just some black cardstock and my printer! I’ve made all of these images as PDFs and SVGs all available in my [freebies library, accessible by joining my mailing list!](https://mailchi.mp/5d375d2a784f/joyberry)
+I prefer quick things that I can make with what I have on hand, which in this case was just some black cardstock and my printer! 
+
+## Access the Free Downloads
+
+I’ve made all of these images as PDFs and SVGs all available in my [freebies library, accessible by joining my mailing list!](https://mailchi.mp/5d375d2a784f/joyberry)
 
 ## Paper Bats
 
