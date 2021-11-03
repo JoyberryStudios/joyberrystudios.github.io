@@ -55,38 +55,38 @@ Once you’ve chosen your fabric and elastic you will need to cut the following:
 
 ![clip corners on bow](/assets/images/blogs/November2021/bowScrunchie/clipCorners.jpg)
 
-2. Trim the outside corners of the bow so there is only ⅛ inch seam allowance. Clip the inside curves. (Don’t clip or trim over the fabric where you left the 2 inch gap.) This extra trimming and clipping makes the bow lay more flat when turned right side out.
+2.Trim the outside corners of the bow so there is only ⅛ inch seam allowance. Clip the inside curves. (Don’t clip or trim over the fabric where you left the 2 inch gap.) This extra trimming and clipping makes the bow lay more flat when turned right side out.
 
 ![pin hole closed on bow](/assets/images/blogs/November2021/bowScrunchie/pinBowSecond.jpg)
 
-3. Turn the bow right side out. Use your finger, pen, knitting needle, or another blunt tool to push out all of the seams. Make sure your 2 inch gap is tucked in. Iron the bow flat.
+3.Turn the bow right side out. Use your finger, pen, knitting needle, or another blunt tool to push out all of the seams. Make sure your 2 inch gap is tucked in. Iron the bow flat.
 
-4. While you are at the iron, fold a short edge of the rectangle fabric ¼ inch to the wrong side of the fabric and press.
+4.While you are at the iron, fold a short edge of the rectangle fabric ¼ inch to the wrong side of the fabric and press.
 
-5. Sew the 2 inch gap on the bow closed, as close to the edge as possible.
+5.Sew the 2 inch gap on the bow closed, as close to the edge as possible.
 
 ![](/assets/images/blogs/November2021/bowScrunchie/pinRectangle.jpg)
 
-6. Fold the rectangle in half, right sides together, hotdog style and sew shut with a ¼ inch seam allowance.
+6.Fold the rectangle in half, right sides together, hotdog style and sew shut with a ¼ inch seam allowance.
 ![turn scrunchie rightside out](/assets/images/blogs/November2021/bowScrunchie/reverseTube.jpg)
 
-7. Using a safety pin, turn the rectangle right side out. 
+7.Using a safety pin, turn the rectangle right side out. 
 
 ![thread elastic through tube](/assets/images/blogs/November2021/bowScrunchie/threadElastic.jpg)
 
-8. Attach your safety pin to one side of the elastic and thread through the rectangle. (Be sure to keep hold of the opposite side of the elastic! You can pin it to the fabric if you are having trouble.)
+8.Attach your safety pin to one side of the elastic and thread through the rectangle. (Be sure to keep hold of the opposite side of the elastic! You can pin it to the fabric if you are having trouble.)
 
 ![sew elastic shut](/assets/images/blogs/November2021/bowScrunchie/sewElastic.jpg)
 
-9. Overlap ½ inch of the elastic and sew with a zig zag stitch. (If you’re using a thinner elastic, this can be a little tricky! It doesn’t have to look pretty, just make sure it is strong and will hold while stretching.)
+9.Overlap ½ inch of the elastic and sew with a zig zag stitch. (If you’re using a thinner elastic, this can be a little tricky! It doesn’t have to look pretty, just make sure it is strong and will hold while stretching.)
 
 ![pin scrunchie shut](/assets/images/blogs/November2021/bowScrunchie/pinScrunchie.jpg)
 
-10. Place the raw edge side of the rectangle inside the hemmed side. Pin in place and sew seam shut.
+10.Place the raw edge side of the rectangle inside the hemmed side. Pin in place and sew seam shut.
 
 ![folding bow over scrunchie](/assets/images/blogs/November2021/bowScrunchie/bowFold.jpg)
 
-11. Fold or bunch up your scrunchie along the seam. Place your bow over the seam and tie a knot. Pull hard on the knot to make sure it is secure. If you want to be extra careful, you can sew a few stitches by hand to secure the knot in place.
+11.Fold or bunch up your scrunchie along the seam. Place your bow over the seam and tie a knot. Pull hard on the knot to make sure it is secure. If you want to be extra careful, you can sew a few stitches by hand to secure the knot in place.
 
 ## Wear & Share!
 
@@ -102,19 +102,19 @@ These scrunchies are a great scrap buster and a quick sew. They would be a great
 
 There are a few things that you can easily do to switch up these scrunchies. This tutorial is a great jumping off point. Here are some quick ideas:
 
-1. More Full Scrunchie
+* More Full Scrunchie
 
 This would look great with silk fabric or other lighter weight fabrics. Just simply increase the width of the long strip. 4.5 inches would be a great starting point!
 
-2. Smaller Scrunchie 
+* Smaller Scrunchie 
 
 This would be better for kids. Try decreasing the rectangle to 2.5 inches x 18 inches and the elastic to 7 inches.
 
-3. Scrunchie with Longer Ties
+* Scrunchie with Longer Ties
 
 I’ve seen these offered on Etsy and they are so cute. Instead of making a bow. Make another long tube to tie around the scrunchie instead. Try starting with 12 inches x 3 inches. 
 
-4. Simple Scrunchie
+* Simple Scrunchie
 
 Instead of adding the bow, opt for a more simple design without the bow.
 
