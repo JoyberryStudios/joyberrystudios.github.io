@@ -65,7 +65,7 @@ Once you’ve chosen your fabric and elastic you will need to cut the following:
 
 5.Sew the 2 inch gap on the bow closed, as close to the edge as possible.
 
-![](/assets/images/blogs/November2021/bowScrunchie/pinRectangle.jpg)
+![pin rectangle shut](/assets/images/blogs/November2021/bowScrunchie/pinRectangleShut.jpg)
 
 6.Fold the rectangle in half, right sides together, hotdog style and sew shut with a ¼ inch seam allowance.
 ![turn scrunchie rightside out](/assets/images/blogs/November2021/bowScrunchie/reverseTube.jpg)

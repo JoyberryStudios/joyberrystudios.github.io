@@ -8,6 +8,14 @@ Thank you so much for keeping in touch with Joyberry Studios through the email l
 
 All of these freebies are for personal use only. Please do not sell these files or things that you make with them. 
 
+![PlayKitchen](/assets/images/blogs/January2022/playKitchen/finalKitchen.jpg)
+
+[Stove Burner SVG](/freebies/playKitchen/stoveBurner.svg)
+
+[Microwave Panel SVG](/freebies/playKitchen/microwavePanel.svg)
+
+[Oven Panel SVG](/freebies/playKitchen/ovenPanel.svg)
+
 ![HalloweenDecor](/assets/images/blogs/October2021/decorateHalloween/fullMantle.jpg)
 
 [bat printable PDF](/freebies/halloween/batPrint.pdf)
