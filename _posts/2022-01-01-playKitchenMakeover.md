@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "Kids Play Kitchen Makeover Renovation"
+title: "Kids Play Kitchen Makeover and Renovation - Free SVG Downloads"
 image: /assets/images/blogs/January2022/playKitchen/pinterest1.png
 date: 2022-01-01
 tags: home DIY kids
