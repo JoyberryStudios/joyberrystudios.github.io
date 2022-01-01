@@ -109,7 +109,7 @@ There are so many other inspirational creatives out there! Here I highlight some
 
 [The Rural Legend](https://www.therurallegend.com/amp/fall-hoop-wreath-diy) made this gorgeous wreath, that is perfect for fall.
 
-![HelloCentralAvenueWreath](/assets/images/blogs/January2022/eucalyptusWreath/HelloCentralAvenue.jpg)
+![HelloCentralAvenueWreath](/assets/images/blogs/January2022/eucalyptusWreath/helloCentralAvenue.jpg)
 
 [Hello Central Avenue](https://hellocentralavenue.com/an-easy-diy-spring-hoop-wreath/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=584162756_21882430_380937) made this cottage core / rustic wreath, which would be perfect for spring.
 
