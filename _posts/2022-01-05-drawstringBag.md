@@ -1,10 +1,10 @@
 ---
 layout: blogpost
-title: "Sew a Drawstring Bag with No Exposed Seams or Liner"
+title: "Sew a Drawstring Bag with No Exposed Seams or Lining"
 image: /assets/images/blogs/January2022/drawstringBag/pinterest2.png
 date: 2022-01-05
 tags: sewing sewingScraps sewingHome
-description: "Sew your own drawstring bag with no exposed seams or liner"
+description: "Sew your own drawstring bag with no exposed seams or lining"
 comments: true
 ---
 ## Uses for Drawstring Bag
@@ -29,11 +29,11 @@ Furoshiki is a popular trend where a present is wrapped with fabric instead of p
 
 Instead of wrapping presents in scrap fabric, think about turning that scrap fabric into a bag first. This way, it is more likely the recipient will get more use out of it. 
 
-## Drawstring Bag with No Exposed Edges or Liner
+## Drawstring Bag with No Exposed Edges or Lining
 
-When I first started sewing I had difficulties finding a simple drawstring bag tutorial. I wanted one that was quick to sew up and didn’t have a liner. But I also wanted one that didn’t have exposed edges on the inside that would fray with use.
+When I first started sewing I had difficulties finding a simple drawstring bag tutorial. I wanted one that was quick to sew up and didn’t have a lining. But I also wanted one that didn’t have exposed edges on the inside that would fray with use.
 
-So I came up with my own. This bag features no liner (which makes it great for scrap busting) and enclosed seams (no fraying!).
+So I came up with my own. This bag features no lining (which makes it great for scrap busting) and enclosed seams (no fraying!).
 
 ## Choosing a Fabric
 
@@ -47,7 +47,7 @@ Medium and lightweight fabrics are the best fabric choices for these bags.
 
 ## Choosing and Sizing the Drawstring
 
-![fabric](/assets/images/blogs/January2022/drawstring Bag/bagsInPile.jpg)
+![drawstring](/assets/images/blogs/January2022/drawstringBag/bagsInPile.jpg)
 
 There are a lot of different options for drawstrings: yarn, string, or bias tape work well in my experience. If you are using bias tape or a chunkier yarn, just make sure it will be able to thread through the top casing before you sew it.
 
@@ -93,31 +93,31 @@ If those equations are a little hard to think about at the moment, or you would 
 
 ![fabric](/assets/images/blogs/January2022/drawstringBag/pinSides.jpg)
 
-1. Fold and press each long side of the fabric in ¼ inch. Repeat the fold and press again. Pin the sides. 
+1.Fold and press each long side of the fabric in ¼ inch. Repeat the fold and press again. Pin the sides. 
 
-2. Sew the long pinned edges.
+2.Sew the long pinned edges.
 
 ![fabric](/assets/images/blogs/January2022/drawstringBag/pinTop.jpg)
 
-3. Fold and press the short ends of the bag in ¾ inch. Repeat the fold and press again. Pin. (This is the top of the bag where the closure string will go through.)
+3.Fold and press the short ends of the bag in ¾ inch. Repeat the fold and press again. Pin. (This is the top of the bag where the closure string will go through.)
 
-4. Sew each short side individually, making your stitches as close to the open side of the fold as possible. (You want to create ample room for the string to pass through. If you are new to sewing and this is challenging, feel free to make the casing larger, by folding and pressing 1 inch.)
+4.Sew each short side individually, making your stitches as close to the open side of the fold as possible. (You want to create ample room for the string to pass through. If you are new to sewing and this is challenging, feel free to make the casing larger, by folding and pressing 1 inch.)
 
 ![fabric](/assets/images/blogs/January2022/drawstringBag/pinSidesFrenchSeams.jpg)
 
-5. Fold your fabric so the right sides are together with the short sides touching one another. Pin the sides.
+5.Fold your fabric so the right sides are together with the short sides touching one another. Pin the sides.
 
 ![fabric](/assets/images/blogs/January2022/drawstringBag/sewSides.jpg)
 
-6. Sew the pinned sides together as close to the folded edges as possible, stopping right before the top drawstring casing.. (Don’t sew through the folded edges. You should be sewing through two layers or fabric, not six.) (If you sew all the way up to the top, through the drawstring casing, you won’t be able to insert your drawstring.)
+6.Sew the pinned sides together as close to the folded edges as possible, stopping right before the top drawstring casing.. (Don’t sew through the folded edges. You should be sewing through two layers or fabric, not six.) (If you sew all the way up to the top, through the drawstring casing, you won’t be able to insert your drawstring.)
 
 ![fabric](/assets/images/blogs/January2022/drawstringBag/safetyPinString.jpg)
 
-7. Congrats! You’ve made the body of the bag! That was the hardest part! Now you just have to insert the drawstring. Take a larger sized safety pin and attach it to one side of your drawstring. (This safety pin gives you something to grip onto when threading your drawstring through the bag.)
+7.Congrats! You’ve made the body of the bag! That was the hardest part! Now you just have to insert the drawstring. Take a larger sized safety pin and attach it to one side of your drawstring. (This safety pin gives you something to grip onto when threading your drawstring through the bag.)
 
 ![fabric](/assets/images/blogs/January2022/drawstringBag/drawstringClose.jpg)
 
-8. Thread the safety pin and attached drawstring through the bag. You can choose to have the drawstring peek out of one side or both. You may also choose to knot your drawstrings together to prevent them from sliding back into the bag or keep them loose.
+8.Thread the safety pin and attached drawstring through the bag. You can choose to have the drawstring peek out of one side or both. You may also choose to knot your drawstrings together to prevent them from sliding back into the bag or keep them loose.
 
 ## Possible Additions, Modifications, & Uses
 
