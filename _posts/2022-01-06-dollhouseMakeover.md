@@ -11,7 +11,7 @@ I am so fortunate that my parents invested in some higher quality wooden toys th
 
 There used to be a 1990’s version of a Makerspace, where as my mom describes it, a bunch of older men would get together and do wood working together and sell what they made in a little store front. She bought a set of children’s table and chairs, a doll high chair and bassinet, and a dollhouse from them. My mom saved all of them and now my daughter gets to enjoy them as well!
 
-##Original Dollhouse
+## Original Dollhouse
 
 ![originalExteriorDollHouse](/assets/images/blogs/January2022/dollHouseMakeover/originalExterior.jpg)
 
@@ -23,9 +23,9 @@ My mom also painted the inside rooms. I love that she added texture with the blu
 
 I knew that I wanted to give the dollhouse a facelift and make it a little more gender neutral. I knew I could fix the broken windows, replace the sparse flower beds, and make it look a bit more polished.
 
-##Exterior Renovations
+## Exterior Renovations
 
-![finalExterior](/assets/images/blogs/January2022/dollHouseMakeover/Exterior.jpg)
+![finalExterior](/assets/images/blogs/January2022/dollHouseMakeover/exterior.jpg)
 
 First, I removed the wooden hearts at the top of the dollhouse and did an overall wood fill and sand to the entire piece. I gave it a fresh coat of paint: [Silverado Sage by Magnolia Paint](https://magnolia.com/shop/product/4767569540/silverado-sage/) is the green color, [No Limits by Sherwin Williams HGSW 1461](https://www.lowes.com/pd/HGTV-HOME-by-Sherwin-Williams-Limits-Interior-Eggshell-Paint-Sample-Actual-Net-Contents-29-fl-oz/50389984) is the deep navy color, and [Pediment by Sherwin Williams](https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/paint-colors-by-family/SW7634-pediment) is the off white color.
 
@@ -39,7 +39,7 @@ I used a spackling knife to remove the trim around the top two windows and I rep
 
 I really struggled to find small florals that I could put in the window boxes. It seemed like dollhouse flowers were going to be really expensive. Instead I bought this faux foliage from JoAnns and glued on the leaves to the flower boxes. I think I like the overall more neutral look.
 
-##Interior Renovations
+## Interior Renovations
 
 ![finalDollHouseOpen](/assets/images/blogs/January2022/dollHouseMakeover/finalOpen.jpg)
 
@@ -81,7 +81,7 @@ I thought the paper I used in this room looked a bit like tile. If I used a patt
 
 Another favorite paper. I love the dark green florals with gold accents!
 
-##dollhouse Furniture
+## Dollhouse Furniture
 
 I am so happy that my mom also saved all of my dollhouse furniture from my childhood. It is high quality wooden furniture from [Plan Toys](https://usa.plantoys.com), which you can purchase in the US through [Bella Luna Toys](https://www.bellalunatoys.com/search?q=wooden%20dollhouse%20furniture&_=pf&pf_t_category=Dollhouse%20Furniture).
 
@@ -89,7 +89,7 @@ To my surprise, the Plan Toys dollhouse furniture has not changed in 25 years, s
 
 We also have a lot of additional pieces like play kitchen food, lamps, books, and other small knick knacks. My daughter is still little and we have a baby on the way, so I decided to keep the decor simple, at least for another few years!
 
-##Sustainability
+## Sustainability
 
 I love giving my childhood toys or toys that I find second hand ([like our play kitchen](https://joyberrystudios.com/2022/01/01/playKitchenMakeover.html)) a makeover so they can serve our family for years to come. Reusing toys through different childhoods keeps those toys out of landfills.
 
