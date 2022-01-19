@@ -90,6 +90,12 @@ We also planted four lavender plants around the outside. Lavender is thought of 
 
 These flowers also attract pollinators, which is great for helping your garden grow! 
 
+## End of Summer Update
+
+![gardenAtTheEndOfSummer](/assets/images/blogs/May2021/buildGarden/gardenEndOfSummer.jpg)
+
+A little update! We absolutely loved our first summer with our garden and we learned a lot. For example, one squash plant can take over an entire side of the garden and that our enclosure won't keep our squirrels that love pole bean seeds immediately after they are planted. We were thrilled with all that we could grow in such a small space and look forward to our next gardening season!
+
 ## Share
 
 If you have any more gardening tips, favorite vegetables to grow, or any questions please let me know! You can comment below, or reach out to me on [Instagram](https://www.instagram.com/joyberrystudios/). I will post updates about my garden in my stories!
