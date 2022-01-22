@@ -9,7 +9,7 @@ comments: true
 ---
 ## Pillow Covers Are One of My Favorite Projects!
 
-![christmas pillows](/assets/images/blogs/February2021/pillows/ChristmasPillows.jpg)
+![christmas pillows](/assets/images/blogs/February2021/pillows/christmasPillows.jpg)
 
 Pillow covers are a great way to change up your home decor. They can easily spruce up your home for the different seasons and holidays. When not in use, they easily fold up and barely take up any space! 
 
@@ -60,7 +60,7 @@ Cut the front and back of your pillow to the exact dimensions of your pillow. Yo
 
 ## Sewing the Zippered Pillow Cover
 
-1.Finish Top Seams
+1. Finish Top Seams
 
 ![finish top edges](/assets/images/blogs/January2022/zipperedPillow/finishTopEdges.jpg)
 
@@ -70,7 +70,7 @@ I wrote a blog post with different ways to [finish seams with a traditional sewi
 
 For my birthday I got a [Juki Serger](https://sewtospeakshoppe.com/collections/juki-sewing-sergers-accessories/type_serger), which I love, but absolutely is not needed for this project. That is how I finished the seams in the photo above. (Still working on figuring out the tension as you can probably see…)
 
-2.Pin in the Zipper
+2. Pin in the Zipper
 
 ![shorten zipper](/assets/images/blogs/January2022/zipperedPillow/shortenZipper.jpg)
 
