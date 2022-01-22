@@ -60,7 +60,7 @@ Cut the front and back of your pillow to the exact dimensions of your pillow. Yo
 
 ## Sewing the Zippered Pillow Cover
 
-1. Finish Top Seams
+**1.Finish Top Seams**
 
 ![finish top edges](/assets/images/blogs/January2022/zipperedPillow/finishTopEdges.jpg)
 
@@ -70,7 +70,7 @@ I wrote a blog post with different ways to [finish seams with a traditional sewi
 
 For my birthday I got a [Juki Serger](https://sewtospeakshoppe.com/collections/juki-sewing-sergers-accessories/type_serger), which I love, but absolutely is not needed for this project. That is how I finished the seams in the photo above. (Still working on figuring out the tension as you can probably see…)
 
-2. Pin in the Zipper
+**2.Pin in the Zipper**
 
 ![shorten zipper](/assets/images/blogs/January2022/zipperedPillow/shortenZipper.jpg)
 
@@ -90,7 +90,7 @@ The wrong side of the invisible zipper is the one where you can see the teeth, l
 
 Once your zipper is in place add a few pins to hold it.
 
-3. Baste in the Zipper
+**3.Baste in the Zipper**
 
 ![baste zipper](/assets/images/blogs/January2022/zipperedPillow/basteZipper.jpg)
 
@@ -98,7 +98,7 @@ You are actually going to sew in your zipper twice. Basting in the zipper may se
 
 Attach your zipper foot to your machine and sew in the zipper. When you are basting in the zipper you want to make sure that the zipper and the pillow top are aligned. There is no need to get close to the teeth here or worry about sewing super straight lines at this step.
 
-4. Sew in the Zipper
+**4.Sew in the Zipper**
 
 ![sew in zipper](/assets/images/blogs/January2022/zipperedPillow/sewInZipperSide1.jpg)
 
@@ -108,7 +108,7 @@ Unzip your zipper and push the zipper teeth toward the inside of the pillow. You
 
 You want to sew as close to the zipper teeth as possible, but do not sew into the zipper teeth. If you sew into zipper teeth the zipper pull will not be able to pass through this portion of the zipper and your pillow won’t work. Go slowly!
 
-5. Align Second Side of Pillow to Zipper
+**5.Align Second Side of Pillow to Zipper**
 
 ![align second side](/assets/images/blogs/January2022/zipperedPillow/alignSecondSide.jpg)
 
@@ -118,19 +118,19 @@ Align the second side of your pillow with the zipper.
 
 Once again, pin zipper and fabric together, RIGHT SIDES TOGETHER.
 
-6. Sew in Second Side of Zipper
+**6.Sew in Second Side of Zipper**
 
 ![sew in zipper side 2](/assets/images/blogs/January2022/zipperedPillow/sewInZipperSide2.jpg)
 
 Repeat steps 3 and 4 to baste and sew in the second side of your zipper. You may want to open the zipper to sew it a little easier
 
-7. Sew Top Sides of Pillow
+**7.Sew Top Sides of Pillow**
 
 ![sew top sides](/assets/images/blogs/January2022/zipperedPillow/sewTopSides.jpg)
 
 Once the zipper is sewn in place you will need to sew the short sides on each side of the zipper. Keep your zipper foot on your machine and sew along each side, until ½ inch into each side of the zipper, getting as close to the zipper teeth as possible. This will ensure that you zipper stays hidden.
 
-8. Sew & Finish Seams of Remaining Three Sides of Pillow
+**8.Sew & Finish Seams of Remaining Three Sides of Pillow** 
 
 ![sew sides](/assets/images/blogs/January2022/zipperedPillow/sewSides.jpg)
 
@@ -144,10 +144,11 @@ Turn your pillow right side out and give it a nice press (be careful with a hot 
 
 ## Check out my other pillow tutorials:
 
+
+
+**[Ohio Star Block Quilted Pillow](https://joyberrystudios.com/2021/03/05/ohioQuiltPillow.html)**
+
 ![pillowsOnCouch](/assets/images/blogs/March2021/OhioQuiltPillows/finalPillow.jpg)
-
-[Ohio Star Block Quilted Pillow](https://joyberrystudios.com/2021/03/05/ohioQuiltPillow.html)
-
 
 
 
