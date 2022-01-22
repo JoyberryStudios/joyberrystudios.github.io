@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: "How to Sew a Pillow Cover with An Invisible Zipper"
-image: /assets/images/blogs/January2022/zipperedPillow/pinterest3.png
+image: /assets/images/blogs/January2022/zipperedPillow/pinterest1.png
 date: 2022-01-22
 tags: sewing sewingHome sewingTutorials home
 description: "Learn how to Sew in an Invisible Zipper while sewing a Pillow Cover"
