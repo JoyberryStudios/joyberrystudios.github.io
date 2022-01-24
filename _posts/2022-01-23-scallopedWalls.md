@@ -49,7 +49,7 @@ Starting with a straight line to add your scallops to is an important detail! I 
 
 If you don’t have a laser level, You could measure a particular height up from the wall every few feet and connect the points to make your line. You could also use an actual level tool to make your lines.
 
-![cabbageRose](/assets/images/blogs/January2022/scallopedWalls/cabbageRose.jpg)
+![cabbageRose](/assets/images/blogs/January2022/scallopedWalls/cabbageRose.png)
 
 Once taped I painted the lower portion of the walls. I used the color [Cabbage Rose by Magnolia Paints](https://magnolia.com/shop/collection/84734017587/exterior-paint/product/1690206535731/cabbage-rose-exterior-paint/), which I was able to pick up easily at my local Ace Hardware.
 
