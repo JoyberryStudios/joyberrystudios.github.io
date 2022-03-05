@@ -11,11 +11,11 @@ comments: true
 
 ## Eight Pointed Star Quilted Pillow Cover
 
-![fabric](/assets/images/blogs/March2021/OhioQuiltPillow/twoPillows.jpg)
+![fabric](/assets/images/blogs/March2022/eightPointStarPillow/twoPillows.jpg)
 
 I love a good pillow cover. It is one of my favorite blog posts to write! They are great for changing out home decor for the different seasons/holidays and they are a great project for using up extra scrap fabric. 
 
-![fabric](/assets/images/blogs/March2021/OhioQuiltPillow/finalPillow.jpg)
+![fabric](/assets/images/blogs/March2021/OhioQuiltPillows/finalPillow.jpg)
 
 I made a set of [Ohio Star Quilt Block pillows](https://joyberrystudios.com/2021/03/05/ohioQuiltPillow.html) last spring. They were so fun to pull together and a great beginner quilting project!
 
@@ -27,7 +27,7 @@ I wrote this pattern for an 18” pillow. If you have a slightly smaller pillow,
 
 ## Fabric
 
-![fabric](/assets/images/blogs/January2022/eightPointStarPillow/supplies.jpg)
+![fabric](/assets/images/blogs/March2022/eightPointStarPillow/supplies.jpg)
 
 You will need two different fabrics for your star and a background fabric. 
 
@@ -59,7 +59,7 @@ Background: two 18.5” x 12” rectangles
 
 ## Piecing Eight Pointed Star
 
-![fabric](/assets/images/blogs/January2022/eightPointStarPillow/HST.jpg)
+![fabric](/assets/images/blogs/March2022/eightPointStarPillow/HST.jpg)
 
 **Making the Half Square Triangles**
 
@@ -73,13 +73,13 @@ Press seams open and trim each block to 3.5” squares
 
 Arrange your squares as shown in the diagram below:
 
-![fabric](/assets/images/blogs/January2022/eightPointStarPillow/HST.jpg)
+![fabric](/assets/images/blogs/March2022/eightPointStarPillow/HST.jpg)
 
 HST with star fabrics are in the center, HST with star fabrics and background color are in the middle top, bottom, left, and right, and 3.5” background squares are in the corners.
 
 **Piecing Together the Squares**
 
-![fabric](/assets/images/blogs/January2022/eightPointStarPillow/quiltStarAI.jpg)
+![fabric](/assets/images/blogs/March2022/eightPointStarPillow/quiltStarAI.jpg)
 
 Take each row of squares and piece them together with ¼ inch seam allowance. This will make four rows of piece squares.
 
@@ -89,31 +89,31 @@ Piece together the four rows to create your eight pointed star quilt block. Pres
 
 ## Piecing Border
 
-![border1](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/border1.jpg)
+![border1](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border1.jpg)
 
 1. Sew the 12.5” x 1.5” background rectangles to the top and bottom of the star quilt block.
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/border2.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border2.jpg)
 
 2. Sew the 14.5” x 1.5” background rectangles to the left and right of the star quilt block. Trim to make a 14.5” square. Press seams.
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/border3.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border3.jpg)
 
 3. Sew the 14.5” x 1.5” rectangles of star fabric 1 to the left and right sides of the blocks.
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/border4.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border4.jpg)
 
 4. Sew a 1.5” background square to each side of the 14.5” x 1.5” rectangles of star fabric 2.
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/border5.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border5.jpg)
 
 5. Sew the rectangles you just made in step 4 to the top and bottom of the quilt block. Press and trim to make a 16.5” square.
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/border6.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border6.jpg)
 
 6. Sew the 16.5” x 1.5” background rectangles to the left and right sides of the quilt block.
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/border7.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border7.jpg)
 
 7. Sew the 18.5” x 1.5” background rectangles to the top and bottom of the quilt block. Press and trim to make a 18.5” square.
 
@@ -125,7 +125,7 @@ If this is also one of your first quilting projects, celebrate what you made and
 
 ## Quilting Pillow Top Sandwich
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/pin.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/pin.jpg)
 
 I always like to utilize scrap fabric for the backs of my quilted pillow tops. They sit inside the pillow, are never seen, and a great way to utilize leftover fabric. Cut your quilt backing just a bit bigger than the quilted pillow top, ~ 19” x 19”. 
 
@@ -135,7 +135,7 @@ Double check that there aren’t any wrinkles in your fabric or batting and secu
 
 ## Marking & Quilting the Pillow Top
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/quiltingLines.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/quiltingLines.jpg)
 
 Feel free to quilt your pillow top in any way that you would like! I like to try to find a way to quilt the pillow top that complements the quilt block. I did diagonal quilting lines that alternated between one and two lines. I really like how it turned out!
 
@@ -145,7 +145,7 @@ I brought it to my sewing machine and quilted the lines that I marked.
 
 ## Assemble Into Envelope Pillow
 
-![border2](/assets/images/blogs/January2022/eightPointStarQuiltedPillow/pillowBacks.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/pillowBacks.jpg)
 
 **For a more in depth description of how to make an envelope pillow, check out my other blog post [here]().**
 
@@ -157,7 +157,7 @@ Sew pillow backs and pillow top together with a 1/4 “ seam allowance. Finish e
 
 Turn pillow right side out and enjoy!
 
-
+![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/pillowOnBlanket.jpg)
 
 
 <br>
