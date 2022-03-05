@@ -125,7 +125,7 @@ If this is also one of your first quilting projects, celebrate what you made and
 
 ## Quilting Pillow Top Sandwich
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/pin.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/pin.jpg)
 
 I always like to utilize scrap fabric for the backs of my quilted pillow tops. They sit inside the pillow, are never seen, and a great way to utilize leftover fabric. Cut your quilt backing just a bit bigger than the quilted pillow top, ~ 19” x 19”. 
 
