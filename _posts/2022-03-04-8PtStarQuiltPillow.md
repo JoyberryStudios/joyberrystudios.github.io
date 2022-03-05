@@ -91,31 +91,31 @@ Piece together the four rows to create your eight pointed star quilt block. Pres
 
 ![border1](/assets/images/blogs/March2022/eightPointStarPillow/border1.jpg)
 
-1. Sew the 12.5” x 1.5” background rectangles to the top and bottom of the star quilt block.
+1.Sew the 12.5” x 1.5” background rectangles to the top and bottom of the star quilt block.
 
 ![border2](/assets/images/blogs/March2022/eightPointStarPillow/border2.jpg)
 
-2. Sew the 14.5” x 1.5” background rectangles to the left and right of the star quilt block. Trim to make a 14.5” square. Press seams.
+2.Sew the 14.5” x 1.5” background rectangles to the left and right of the star quilt block. Trim to make a 14.5” square. Press seams.
 
 ![border2](/assets/images/blogs/March2022/eightPointStarPillow/border3.jpg)
 
-3. Sew the 14.5” x 1.5” rectangles of star fabric 1 to the left and right sides of the blocks.
+3.Sew the 14.5” x 1.5” rectangles of star fabric 1 to the left and right sides of the blocks.
 
 ![border2](/assets/images/blogs/March2022/eightPointStarPillow/border4.jpg)
 
-4. Sew a 1.5” background square to each side of the 14.5” x 1.5” rectangles of star fabric 2.
+4.Sew a 1.5” background square to each side of the 14.5” x 1.5” rectangles of star fabric 2.
 
 ![border2](/assets/images/blogs/March2022/eightPointStarPillow/border5.jpg)
 
-5. Sew the rectangles you just made in step 4 to the top and bottom of the quilt block. Press and trim to make a 16.5” square.
+5.Sew the rectangles you just made in step 4 to the top and bottom of the quilt block. Press and trim to make a 16.5” square.
 
 ![border2](/assets/images/blogs/March2022/eightPointStarPillow/border6.jpg)
 
-6. Sew the 16.5” x 1.5” background rectangles to the left and right sides of the quilt block.
+6.Sew the 16.5” x 1.5” background rectangles to the left and right sides of the quilt block.
 
 ![border2](/assets/images/blogs/March2022/eightPointStarPillow/border7.jpg)
 
-7. Sew the 18.5” x 1.5” background rectangles to the top and bottom of the quilt block. Press and trim to make a 18.5” square.
+7.Sew the 18.5” x 1.5” background rectangles to the top and bottom of the quilt block. Press and trim to make a 18.5” square.
 
 ## Reminder - It Doesn’t Have to be Perfect!
 
@@ -135,7 +135,7 @@ Double check that there aren’t any wrinkles in your fabric or batting and secu
 
 ## Marking & Quilting the Pillow Top
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/quiltingLines.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/quiltingLines.jpg)
 
 Feel free to quilt your pillow top in any way that you would like! I like to try to find a way to quilt the pillow top that complements the quilt block. I did diagonal quilting lines that alternated between one and two lines. I really like how it turned out!
 
@@ -145,7 +145,7 @@ I brought it to my sewing machine and quilted the lines that I marked.
 
 ## Assemble Into Envelope Pillow
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/pillowBacks.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/pillowBacks.jpg)
 
 **For a more in depth description of how to make an envelope pillow, check out my other blog post [here]().**
 
@@ -157,7 +157,7 @@ Sew pillow backs and pillow top together with a 1/4 “ seam allowance. Finish e
 
 Turn pillow right side out and enjoy!
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/pillowOnBlanket.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/pillowOnBlanket.jpg)
 
 
 <br>
