@@ -73,7 +73,7 @@ Press seams open and trim each block to 3.5” squares
 
 Arrange your squares as shown in the diagram below:
 
-![fabric](/assets/images/blogs/March2022/eightPointStarPillow/HST.jpg)
+![fabric](/assets/images/blogs/March2022/eightPointStarPillow/layout.jpg)
 
 HST with star fabrics are in the center, HST with star fabrics and background color are in the middle top, bottom, left, and right, and 3.5” background squares are in the corners.
 
@@ -89,31 +89,31 @@ Piece together the four rows to create your eight pointed star quilt block. Pres
 
 ## Piecing Border
 
-![border1](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border1.jpg)
+![border1](/assets/images/blogs/March2022/eightPointStarPillow/border1.jpg)
 
 1. Sew the 12.5” x 1.5” background rectangles to the top and bottom of the star quilt block.
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border2.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/border2.jpg)
 
 2. Sew the 14.5” x 1.5” background rectangles to the left and right of the star quilt block. Trim to make a 14.5” square. Press seams.
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border3.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/border3.jpg)
 
 3. Sew the 14.5” x 1.5” rectangles of star fabric 1 to the left and right sides of the blocks.
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border4.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/border4.jpg)
 
 4. Sew a 1.5” background square to each side of the 14.5” x 1.5” rectangles of star fabric 2.
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border5.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/border5.jpg)
 
 5. Sew the rectangles you just made in step 4 to the top and bottom of the quilt block. Press and trim to make a 16.5” square.
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border6.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/border6.jpg)
 
 6. Sew the 16.5” x 1.5” background rectangles to the left and right sides of the quilt block.
 
-![border2](/assets/images/blogs/March2022/eightPointStarQuiltedPillow/border7.jpg)
+![border2](/assets/images/blogs/March2022/eightPointStarPillow/border7.jpg)
 
 7. Sew the 18.5” x 1.5” background rectangles to the top and bottom of the quilt block. Press and trim to make a 18.5” square.
 
