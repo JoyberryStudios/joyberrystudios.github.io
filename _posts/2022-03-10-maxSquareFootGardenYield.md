@@ -16,7 +16,7 @@ Square foot gardening allows us to maximize our vegetable crop for our small gar
 
 Here are five tips for maximizing the number of vegetables you can grow in your square foot garden!
 
-** 1. Utilize Vertical Space**
+**1. Utilize Vertical Space**
 
 ![trellisGrowth](/assets/images/blogs/March2022/maxSquareFootGarden/trellisGrowth.jpg)
 
@@ -30,7 +30,7 @@ Some vegetables that are great for growing on a trellis are: pole beans, peas (s
 
 Just be aware that squash and melons can grow to be quite large. We had one squash plant take up an entire side of our garden. Plan accordingly!
 
-** 2. Succession Planting **
+**2. Succession Planting **
 
 ![bokChoy](/assets/images/blogs/March2022/maxSquareFootGarden/bokChoy.jpg)
 
@@ -40,7 +40,7 @@ You will need to check your [zone](https://planthardiness.ars.usda.gov) for what
 
 For zone 6, beets, broccoli, carrots, cauliflower, kale, lettuce, peas, and spinach can be planted twice in one growing season.
 
-** 3. Plant High Yield Vegetables**
+**3. Plant High Yield Vegetables**
 
 ![carrots](/assets/images/blogs/March2022/maxSquareFootGarden/carrots.jpg)
 
@@ -52,7 +52,7 @@ Leafy greens are also a great plant, because you can cut them and they grow agai
 
 Carrots, parsnips, and radishes can also have 16 plants in just one square foot. 
 
-** 4. Utilize Unused Space **
+**4. Utilize Unused Space**
 
 ![tomatoes](/assets/images/blogs/March2022/maxSquareFootGarden/growingTomatoes.jpg)
 
@@ -62,7 +62,7 @@ Some plants, like tomatoes and peppers, are planted later in the growing season 
 
 I typically plant lettuce, carrots, beets, and radishes next to my tomatoes and peppers. These smaller plants are harvested before the tomatoes and peppers grow to be large enough to block the sun and their roots take up room.
 
-** 5. Compost & Water & Love**
+**5. Compost & Water & Love**
 
 ![inGarden](/assets/images/blogs/March2022/maxSquareFootGarden/inGarden.jpg)
 
