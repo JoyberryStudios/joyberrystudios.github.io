@@ -18,7 +18,7 @@ Here are five tips for maximizing the number of vegetables you can grow in your 
 
 ** 1. Utilize Vertical Space**
 
-![trellisGrowth](/assets/images/blogs/March2021/maxSquareFootGarden/trellisGrowth.jpg)
+![trellisGrowth](/assets/images/blogs/March2022/maxSquareFootGarden/trellisGrowth.jpg)
 
 If you can’t grow out, grow up.
 
@@ -32,7 +32,7 @@ Just be aware that squash and melons can grow to be quite large. We had one squa
 
 ** 2. Succession Planting **
 
-![bokChoy](/assets/images/blogs/March2021/maxSquareFootGarden/bokChoy.jpg)
+![bokChoy](/assets/images/blogs/March2022/maxSquareFootGarden/bokChoy.jpg)
 
 Some plants do best in cooler weather and can be planted once in the early spring and then again in the fall. This is a great way to utilize space, since the crops can be planted twice!
 
@@ -42,7 +42,7 @@ For zone 6, beets, broccoli, carrots, cauliflower, kale, lettuce, peas, and spin
 
 ** 3. Plant High Yield Vegetables**
 
-![carrots](/assets/images/blogs/March2021/maxSquareFootGarden/carrots.jpg)
+![carrots](/assets/images/blogs/March2022/maxSquareFootGarden/carrots.jpg)
 
 Some plants produce more vegetables than others. Broccoli, cabbage and cauliflower produce one vegetable for 1-2 square feet. That is a lot of area for not a lot of food. 
 
@@ -54,7 +54,7 @@ Carrots, parsnips, and radishes can also have 16 plants in just one square foot.
 
 ** 4. Utilize Unused Space **
 
-![tomatoes](/assets/images/blogs/March2021/maxSquareFootGarden/growingTomatoes.jpg)
+![tomatoes](/assets/images/blogs/March2022/maxSquareFootGarden/growingTomatoes.jpg)
 
 When planning your garden you can also utilize unused space during different parts of the growing season.
 
@@ -64,7 +64,7 @@ I typically plant lettuce, carrots, beets, and radishes next to my tomatoes and 
 
 ** 5. Compost & Water & Love**
 
-![inGarden](/assets/images/blogs/March2021/maxSquareFootGarden/inGarden.jpg)
+![inGarden](/assets/images/blogs/March2022/maxSquareFootGarden/inGarden.jpg)
 
 Whatever you decide to plant, you probably want it to thrive and produce as much as possible. Give your garden some love in the form of a good vegetable garden safe compost and make sure you are watering it appropriately.
 
