@@ -8,13 +8,13 @@ description: "five tips to increase your vegetable yield for a square foot garde
 comments: true
 ---
 
-Square foot gardening is a great way to utilize a small garden. It is the practice of dividing up a garden into square feet and planting a specific number of vegetables per square foot. You can read more about square foot gardening here [here](https://gardenerspath.com/how-to/design/guide-to-square-foot-gardening/).
+Square foot gardening is a great way to utilize a small garden. It is the practice of dividing up a garden into square feet and planting a specific number of vegetables per square foot. You can read more about square foot gardening  [here](https://gardenerspath.com/how-to/design/guide-to-square-foot-gardening/).
 
 We have an aggressive deer population in our suburban neighborhood and we knew if we wanted to enjoy anything we grew we would need to fence in our garden. We [built a small 8 ft x 8 ft fenced in garden](https://joyberrystudios.com/2021/05/10/buildGarden.html) and planned out what we would grow based on square foot gardening.
 
 Square foot gardening allows us to maximize our vegetable crop for our small garden. It can be applied to any size garden bed or even larger planters.
 
-Here are five tips for maximizing the number of vegetables you can grow in your square foot garden!
+Here are five tips to help you get the most produce out of your garden this season!
 
 **1. Utilize Vertical Space**
 
@@ -30,7 +30,7 @@ Some vegetables that are great for growing on a trellis are: pole beans, peas (s
 
 Just be aware that squash and melons can grow to be quite large. We had one squash plant take up an entire side of our garden. Plan accordingly!
 
-**2. Succession Planting **
+**2. Succession Planting**
 
 ![bokChoy](/assets/images/blogs/March2022/maxSquareFootGarden/bokChoy.jpg)
 
