@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "How to Sew an 8 Point Star Quilted Pillow"
+title: "How to Sew an Eight Point Star Quilted Pillow Cover"
 image: /assets/images/blogs/March2022/eightPointStarPillow/pinterest2.png
 date: 2022-03-04
 tags: sewing sewingHome sewingScraps
