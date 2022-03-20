@@ -13,7 +13,7 @@ There are so many facets of motherhood that bring me joy. My absolute favorite t
 
 One of her favorite things to do is make “soup” in her kitchen. She takes blocks, random play vegetables, small dolls, and other knick knacks and puts them in bowls and mixes them. She then calls me over and we sit down and enjoy her soup together.
 
-I found her play kitchen on the curb and gave it a little makeover. ([Details in this blog post!](https://joyberrystudios.com/2022/01/01/playKitchenMakeover.html) It is one of her favorite toys.
+I found her play kitchen on the curb and gave it a little makeover. ([Details in this blog post!](https://joyberrystudios.com/2022/01/01/playKitchenMakeover.html) It is one of her favorite toys.)
 
 At the moment we have some hand-me-down 1990’s IKEA kitchen pieces, those wooden velcro cutting fruit, and some old spice jars. I wanted to make a few themed kitchen food sets for her. I thought pasta would be a perfect fit for her colander!
 
@@ -37,9 +37,9 @@ If you don’t have anything that will work you could try the following to susta
 
 * Ask a crafting friend! This project doesn’t use a ton of felt and can easily be made from scraps
 
-*Shop second hand! Try [Make & Mend](https://makeandmendshop.com/search?page=1&q=felt) for second hand crafting items.
+* Shop second hand! Try [Make & Mend](https://makeandmendshop.com/search?page=1&q=felt) for second hand crafting items.
 
-*Use 100% wool felt! [Benzie Design](https://www.benziedesign.com/collections/bellwether) is a small business that is incredibly popular for all kinds of felt projects. They have 100% wool felt, which is more sustainable than the common plastic alternative.
+* Use 100% wool felt! [Benzie Design](https://www.benziedesign.com/collections/bellwether) is a small business that is incredibly popular for all kinds of felt projects. They have 100% wool felt, which is more sustainable than the common plastic alternative.
 
 ## DIY Felt Pasta
 
@@ -75,7 +75,7 @@ Ah, the easiest of the three. Simply just take your felt and cut it into thin st
 
 ![feltSauces](/assets/images/blogs/March2022/feltPasta/sauces.jpg)
 
-**Marinara, Alfredo, Pesto*
+**Marinara, Alfredo, Pesto**
 
 For the sauce I just cut out blobs of the different colored felt. If you want more of a fancy look you could easily make the sauce blobs out of two layers and stitch them together with embroidery floss.
 
