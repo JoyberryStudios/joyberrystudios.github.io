@@ -8,6 +8,16 @@ Thank you so much for keeping in touch with Joyberry Studios through the email l
 
 All of these freebies are for personal use only. Please do not sell these files or things that you make with them. 
 
+![Spring/Easter Stencils](/assets/images/blogs/March2022/springEasterStencils/stencilsColored.jpg)
+
+[Spring/Easter Stencils: SVG](/freebies/SpringEasterStencils/easterSpringStencilsSVG.svg)
+
+[Spring/Easter Stencils: Print PDF - 1](/freebies/SpringEasterStencils/easterSpringStencilsPRINT1.pdf)
+
+[Spring/Easter Stencils: Print PDF - 2](/freebies/SpringEasterStencils/easterSpringStencilsPRINT2.pdf)
+
+[Spring/Easter Stencils: Trace](/freebies/SpringEasterStencils/easterSpringStencilsTRACE.pdf)
+
 ![PlayKitchen](/assets/images/blogs/January2022/playKitchen/finalKitchen.jpg)
 
 [Stove Burner SVG](/freebies/playKitchen/stoveBurner.svg)
