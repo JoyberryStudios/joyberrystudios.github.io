@@ -18,13 +18,13 @@ All of these freebies are for personal use only. Please do not sell these files 
 
 [Spring/Easter Stencils: Trace](/freebies/SpringEasterStencils/easterSpringStencilsTRACE.pdf)
 
-![PlayKitchen](/assets/images/blogs/January2022/PlayKitchen/finalKitchen.jpg)
+![PlayKitchen](/assets/images/blogs/January2022/playKitchen/finalKitchen.jpg)
 
 [Stove Burner SVG](/freebies/PlayKitchen/stoveBurner.svg)
 
 [Microwave Panel SVG](/freebies/PlayKitchen/microwavePanel.svg)
 
-[Oven Panel SVG](/freebies/playKitchen/ovenPanel.svg)
+[Oven Panel SVG](/freebies/PlayKitchen/ovenPanel.svg)
 
 ![HalloweenDecor](/assets/images/blogs/October2021/decorateHalloween/fullMantle.jpg)
 
